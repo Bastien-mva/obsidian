@@ -1,0 +1,4 @@
+- Apprendre la langue des signes pour lui parler 
+- S'agenouiller 
+- Préparer des repas pendant la grossesse pour après 
+- DME: il mange de tt

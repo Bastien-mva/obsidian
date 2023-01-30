@@ -1,0 +1,1 @@
+Bien écrire les matrices, vecteur, etc … en gras comme il faut

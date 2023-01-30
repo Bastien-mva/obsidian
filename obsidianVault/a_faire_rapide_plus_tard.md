@@ -1,0 +1,12 @@
+- Secrets de parisien livre
+- Photos casting 
+- Cannes 
+- Barbec avec les anciens du ping vers Juin avant les vacances ! 
+- Acheter une boule qui rebondit
+- acheter panier de basket pour l’appart 
+- PhD talent career fair
+- FEM 
+- SEME
+- Databird Sylvain Combettes
+- Style: Pinterest 
+- Aide aux victimes d'influenceurs datascience par hugoDécrypte

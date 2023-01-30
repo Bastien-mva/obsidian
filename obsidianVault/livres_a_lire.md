@@ -1,0 +1,9 @@
+- [[le_pouvoir_rhetorique]]
+- [[how_everybody_works]]
+- livre sur l'immobilier 
+- L'art d'avoir toujours raison de Schopenhauer 
+- [[bowling_alone]]
+- [[gettings_things_done]]
+- mail du 11 septembre sur l'impot 
+- forecasting:theory and practice 
+- Au-revoir la haut de Pierre lemaitre 

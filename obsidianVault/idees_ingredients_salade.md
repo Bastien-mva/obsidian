@@ -1,0 +1,15 @@
+- Mais 
+- Orange  
+- Biscotte 
+- Câpres 
+- Jambon fumé 
+- Salade 
+- Chèvre 
+- Betteraves
+- cachuetes 
+- Noix de cajou 
+- Cornichon 
+- Tomates séchées 
+- Lentille 
+- Quinoa 
+- Graines de sésame 

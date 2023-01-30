@@ -1,0 +1,13 @@
+- Badge 
+- Clé 
+- Liseuse 
+- Chaussures de sport 
+- Portefeuille 
+- Montre 
+- Short 
+- Haut 
+- Camel back 
+- Sac a dos 
+- Lire un truc 
+- brassard 
+- Lampes

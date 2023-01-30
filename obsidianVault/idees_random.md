@@ -1,0 +1,1 @@
+Lit cabane (le sol de la cabane est le lit)  

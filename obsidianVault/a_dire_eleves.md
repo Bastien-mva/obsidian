@@ -1,0 +1,6 @@
+- Les quiz vont très vite, surtout le 2. Il faut tout connaitre par coeur. 
+- prévenir des quizz et des DM, et ce que font les DMs
+- Ne pas prendre en photo les quizz et exams 
+- Leur dire de faire les DM 
+- bien faire les tables de quantile.
+- Bien dire différence entre estimateur et estimation

@@ -8,48 +8,68 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2ddee81d557b9c9",
+            "id": "7a221b3f230ec2fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to take Smart notes.md",
+                "file": "abracadabra.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0047df6ae8db860a",
+            "id": "e36f562463e102dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMPSPLN.md",
+                "file": "entrypoint__perso.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "743e23e134194f54",
+            "id": "8d234ed3a6e2a044",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "favorite_singers.md",
+                "file": "pense_bete.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b07ebc9cbc8478d5",
+            "id": "59d28fc508dbef8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a_faire.md",
+                "file": "pense_bete_rando.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45d783a8ab14ba5e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "86291187ed4b8f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_lire_these.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,9 +105,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pense_bete",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -102,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a_faire.md",
+                "file": "pense_bete_rando.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a_faire.md",
+                "file": "pense_bete_rando.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a_faire.md"
+                "file": "pense_bete_rando.md"
               }
             }
           }
@@ -183,17 +204,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b07ebc9cbc8478d5",
+  "active": "59d28fc508dbef8f",
   "lastOpenFiles": [
-    "favorite_singers.md",
-    "Musique.md",
-    "IMPSPLN.md",
-    "faire_de_ses_notes_un_brouillon.md",
-    "How to take Smart notes.md",
-    "savoir_ce_quon_veut_ecrire.md",
-    "developper_les_idees.md",
-    "add_to_the_slip_box.md",
-    "notes_permanentes.md",
-    "fleeting_notes.md"
+    "pense_bete.md",
+    "pense_bete_rando.md",
+    "entrypoint__perso.md",
+    "a_faire_these.md",
+    "a_faire_sandwich.md",
+    "ZIPLN.md",
+    "a_lire_these.md",
+    "a_faire_imps.md",
+    "a_faire_abra.md",
+    "abracadabra.md"
   ]
 }
