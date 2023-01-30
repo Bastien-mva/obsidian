@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pense_bete_rando.md",
+                "file": "ZIPLN.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pense_bete",
+                "query": "ZIPLN",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -122,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pense_bete_rando.md",
+                "file": "ZIPLN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pense_bete_rando.md",
+                "file": "ZIPLN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pense_bete_rando.md"
+                "file": "ZIPLN.md"
               }
             }
           }
@@ -206,15 +205,15 @@
   },
   "active": "59d28fc508dbef8f",
   "lastOpenFiles": [
-    "pense_bete.md",
-    "pense_bete_rando.md",
+    "entrypoint__recherche.md",
     "entrypoint__perso.md",
+    "a_faire_ZIPLN.md",
+    "ZIPLN.md",
+    "pense_bete_rando.md",
+    "pense_bete.md",
     "a_faire_these.md",
     "a_faire_sandwich.md",
-    "ZIPLN.md",
     "a_lire_these.md",
-    "a_faire_imps.md",
-    "a_faire_abra.md",
-    "abracadabra.md"
+    "a_faire_imps.md"
   ]
 }
