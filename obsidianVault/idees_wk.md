@@ -1,0 +1,7 @@
+- cité des sciences 
+- aller a Montmartre 
+- manger un truc dans le 5eme 
+- atelier des lumières 
+- cuisiner ? 
+- visite des catacombes
+- Lancer de hache

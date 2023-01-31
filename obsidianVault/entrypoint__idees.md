@@ -1,0 +1,6 @@
+[[idees_wk]]
+[[idees_kdo]]
+[[idees_evdg]]
+[[idees_random]]
+[[idees_chiards]]
+[[idees_cuisine]]

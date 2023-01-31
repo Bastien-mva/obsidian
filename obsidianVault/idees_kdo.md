@@ -28,6 +28,8 @@
 	 - Réveil style  
 	 - Dieu 
 	 - batterie externe 
+	 - [[ce_quelle_aime]]
+	 - 
 - Puteuh: cacapulte ou facecam (facecum) ou cumface
 
 - Alex: germes a planter et vieilles charues

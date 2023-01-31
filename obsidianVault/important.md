@@ -1,0 +1,8 @@
+Caf 
+Choupie75017
+
+Framaform: 
+[https://framaforms.org/demande-pour-mia-gestion-1581347650](https://framaforms.org/demande-pour-mia-gestion-1581347650?fbclid=IwAR1X_rkqBPy_ZOVN54rF31cYQaZWhZUWaLdC8qeuux6eGwQkqVgleNm0Vps)
+
+token_pypi:
+pypi-AgENdGVzdC5weXBpLm9yZwIkYTkzMDdiMmEtZDY3NS00NzZiLTlkZGQtMTQwYWM3MGJhOWJmAAIleyJwZXJtaXNzaW9ucyI6ICJ1c2VyIiwgInZlcnNpb24iOiAxfQAABiDyfGznhAQ88NxG5hTBfBCqz77A1FtU-LW_3tZSatlXbA

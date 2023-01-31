@@ -37,19 +37,104 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pense_bete.md",
+                "file": "entrypoint__perso.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "59d28fc508dbef8f",
+            "id": "2081f427ad390d28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZIPLN.md",
+                "file": "entrypoint__perso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdc0a0372dcfba27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plus_tard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47513558f36711ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "idees_evdg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1622e15f92f5ebed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "idees_wk.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "88cd270d71504d2a"
+          },
+          {
+            "id": "3fbc6a15c9f727d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plus_tard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7ed0aff774f8b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entrypoint__perso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aae5ddf2ccb07cf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entrypoint__recherche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a1a0c54a9b7db40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scRT.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +161,49 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
+      },
+      {
+        "id": "8043a141b733cc1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4094e9bea646f107",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "idees_wk.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "88cd270d71504d2a"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ZIPLN",
+                "query": "__recherche",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -122,7 +249,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZIPLN.md",
+                "file": "scRT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZIPLN.md",
+                "file": "scRT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZIPLN.md"
+                "file": "scRT.md"
               }
             }
           }
@@ -203,17 +331,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59d28fc508dbef8f",
+  "active": "7a1a0c54a9b7db40",
   "lastOpenFiles": [
     "entrypoint__recherche.md",
+    "neovimi3.md",
     "entrypoint__perso.md",
-    "a_faire_ZIPLN.md",
-    "ZIPLN.md",
-    "pense_bete_rando.md",
-    "pense_bete.md",
-    "a_faire_these.md",
-    "a_faire_sandwich.md",
-    "a_lire_these.md",
-    "a_faire_imps.md"
+    "important.md",
+    "Untitled.md",
+    "plus_tard.md",
+    "entrypoint__idees.md",
+    "idees_wk.md",
+    "idees_chiards.md",
+    "idees_cuisine.md"
   ]
 }
