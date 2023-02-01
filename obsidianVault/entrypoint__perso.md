@@ -4,7 +4,7 @@
 - [[entrypoint__livre]]
 - [[films_et_series]]
 - [[idees_cuisine]]
-- [[neovimi3]]
+- [[info]]
 - [[pense_bete]]
 - [[kdo]]
 - [[sport]]

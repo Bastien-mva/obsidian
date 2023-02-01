@@ -1,0 +1,14 @@
+[[entrypoint__idees]]
+- Oeufs sur le plat, omelette
+- Bacon 
+- Fromage blanc genre faisselle 
+- Confiture groseille 
+- Pain pour tartine 
+- Croissant/ pain au choc 
+- Sandwich américain 
+- Bananes Nutella 
+- Smoothie avec du lait 
+- Pancakes 
+- Crème de châtaigne 
+- Fruits
+- Avocat

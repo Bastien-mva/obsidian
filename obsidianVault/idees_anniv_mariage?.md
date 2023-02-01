@@ -1,0 +1,67 @@
+Diapo
+
+DIAPO: 
+
+- Harlem shake 
+- préparer un diapo avec des vidéos ou on fait deviner des trucs, comme le quizz et avec un Kdo 
+- Imiter les gens ? 
+- Faire des gifs 
+- Liste de gens qui peuvent pas répondre 
+- Faire des parodies avec des trucs très classiques 
+- Trucs classique: Teletubbies 
+- essayer de deviner des souvenirs 
+- Que va t’il se passer ? puis le reste de la vidéo 
+- Que fait Louis ? Il demande en mariage le pizzaiolo
+- réparer le trampo 
+- Que va t’il se passer ? on va nous enfermer ? 
+- transition avec des vidéos 
+- Que va t’il se passer ? Une cufle ? raph vidéo dans mon salon et chez suman 
+- Que va t’il se passer ? avec en vidéo arthur qui boit des coups et qui après il finit avec l’arrosoir e ttout 
+- Hadri dans le metro avec du vomi ? 
+- Qu’a pris raph ? 
+- écriture d’arthur ? 
+- Le cul de doron dans le metro (demander nico ? ) 
+- Qu’est en train de faire raph ? un essai de 100 mots ? reupload la photo pour cacher la bande. 
+- OU est hadrien ? Chez lui ? lui en train de pisser 
+- la main de Louis ? 
+- Nico avec du crayon partout 
+- le god: Leo va: le regretter ? Le manger ? se le mettre ? 
+- possibilité de mettre des vidéos après et avant les questions
+- mettre que le son ? Comme la vidéo ou on rentre dans l’auberge par ex 
+- mettre des photos de lunette: a quoi ca sert ? aller en boite , aller a la piscine ? se protéger du poppy ? et vidéo après 
+- qu’est ce que je fait ? Je mange un gateau ? 
+- ou suis-je ? Chez moi ?  a dauphine ? pas ouf … trop banal 
+- Combien coute une porte ? 
+- Faire deviner des phrases ? 
+- ou est arthur ? avec la vidéo ou il est sous les décombres ? 
+- vidéo de Paul avec le cul rouge de ping 
+- je vous ai pas montré ma nouvelle couep ? 
+- Qui a volé la guezmer ? 
+- Qui a mis les patates a cuire ? 
+- ‘j’ai mis les patates a cuire’ d’arthur 
+- J’ai chié dans une voiture a champion de Hadri 
+- ‘lui il dit que c’est moi qui ai forcé a faire les patates’ 
+- ‘Qui voulait faire les patates’ 
+- manger c’est tricher 
+- Qui se cache derriere cette porte ? Avec choupie qui est au sol musique amour 
+- Qu’est ce que c’est que ca ? (du vomi) des frites ? autre bouffe … Arthur ? ou autre réponse drole ? 
+- Que va faire Gauthier dans cet arbre ? Pisser ? Se cacher ? 
+- vincent qui baise elliot 
+- Qu’est ce qui est plus mauvais que la mauvaise foi d’arthur ? 
+- Que lance arthur dans la fontaine ? sa mauvaise foi ? 
+- truc avec des rats ? 
+- A qui est ce cul ? le cul de raph a barca ? et mettre une comparaison avec celle ou on voit que c’est raph 
+- poullet qui est au dessus de qlqn  dans le trie 2019 to 2022
+- vidéo de Louis qui se présente: les réponses possibles: non, surement pas, impossible … 
+- les memes de raph, et le meme de la canette a flagey 
+- comparaison equipe de kaaris et l’équipe de mon anniversaire 
+- mettre le ‘jpeux savoir pour quoi lo’ de arnaud ? mettre une question, avec une réponse inattendue et envoyer le jingle 
+- ‘ tu veux que je te montre ce que c’est qu’un trou de balle ? ‘ 
+- bouteille de schweppes de hadri 
+- Chienneeeees et interchieeeeennes de mumu et belvédère
+- l’ambition est claire s’alcooliser : mettre arthur a coté 
+- bhaaaaaaaa de arthur a la pétanque 
+- nael qui met son cul sur le lit et dans la gov
+- mettre elliot qui mange la galette chelou puis la chiasse de Depardieu <3 
+- mettre 4 photos de pouce dont la tete de Cam. 
+- Je dansais mieux avant ou après avec vidéos de moi qui danse jeune et plus vieux

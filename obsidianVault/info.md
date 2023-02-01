@@ -1,0 +1,2 @@
+[[neovimi3]]
+[[mouseless]]

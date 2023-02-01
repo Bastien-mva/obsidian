@@ -1,0 +1,9 @@
+- Payer par n'importe qui 
+- Pré avis de 1 mois: préciser quand on donne le préavis 
+- Donner congé ? 
+- Bail solidaire 
+- Dossier valable si l'un des deux veut s'en aller 
+- Envoyer par mail l'assurance 
+- Moitié de la garantie a chacun: payer Elliot 
+- Avis d'échéance chaque mois, a payer entre le 1 et le 5 
+-  Pas de compteur d'eau: pas d'eau a payer
