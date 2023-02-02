@@ -3,6 +3,8 @@
 [[a_faire_abra]]
 [[a_faire_sandwich]]
 
+faire une fonction utils.py ou utils.r qui permet de faire tout ce qu’on fait souvent dans un repo github ! 
+
   
 cleaner les codes, surtout imps et VEM 
 

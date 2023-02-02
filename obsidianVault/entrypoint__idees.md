@@ -4,3 +4,6 @@
 [[idees_random]]
 [[idees_chiards]]
 [[idees_cuisine]]
+[[idees_vacances]]
+[[idees_hackathon]]
+[[idees_RAC]]

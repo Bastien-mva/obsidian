@@ -2,4 +2,4 @@
 - [[pense_bete_partir]]
 - [[pense_bete_rando]]
 - [[pense_bete_anniv]]
-- 
+- [[pense_bete_camping]] 

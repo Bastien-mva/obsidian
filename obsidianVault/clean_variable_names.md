@@ -1,0 +1,10 @@
+- Instead of d or n : int TimePerDay; 
+- ne pas laisser des faux indices qui comprommettent la compréhension du code. 
+- use searchable names 
+- short names are not easy to find with ctrl f (like e) 
+- give search-friendly name to variable that have a large scope 
+- ne pas ajouter GSD devant toutes les fonctions gas station deluxe. Useless. 
+- Avoid mental mapping such as r for an URL. Hard and not clear 
+- A class name should not be a verb 
+- Accessoires, mutators, prédicates -> get, set, is préfixes 
+- python naming convention on internet 

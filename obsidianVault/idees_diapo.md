@@ -1,7 +1,4 @@
-Diapo
-
-DIAPO: 
-
+[[mariage]]
 - Harlem shake 
 - préparer un diapo avec des vidéos ou on fait deviner des trucs, comme le quizz et avec un Kdo 
 - Imiter les gens ? 

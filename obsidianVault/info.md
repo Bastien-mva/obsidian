@@ -1,2 +1,5 @@
 [[neovimi3]]
 [[mouseless]]
+[[touchtyping]]
+[[info_random]]
+[[idees_hackathon]]

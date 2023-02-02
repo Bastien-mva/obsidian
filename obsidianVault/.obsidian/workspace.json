@@ -4,166 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5dcce7dfb669c1a4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a221b3f230ec2fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "abracadabra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e36f562463e102dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entrypoint__perso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d234ed3a6e2a044",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entrypoint__perso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2081f427ad390d28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entrypoint__perso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdc0a0372dcfba27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plus_tard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47513558f36711ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idees_evdg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1622e15f92f5ebed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idees_wk.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "88cd270d71504d2a"
-          },
-          {
-            "id": "3fbc6a15c9f727d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plus_tard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7ed0aff774f8b38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entrypoint__perso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aae5ddf2ccb07cf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entrypoint__recherche.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a1a0c54a9b7db40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scRT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45d783a8ab14ba5e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "86291187ed4b8f32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a_lire_these.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 10
-      },
-      {
         "id": "8043a141b733cc1f",
         "type": "tabs",
         "children": [
@@ -173,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "idees_wk.md",
+                "file": "clean_comments.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,14 +36,86 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 2.0937779296542165,
+                  "close": true
                 }
               }
-            },
-            "group": "88cd270d71504d2a"
+            }
+          },
+          {
+            "id": "186272b3ef13ce3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clean_code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cde610b8b2044dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clean_comments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "602a18582986209a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clean_comments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e12f94ca7306434e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clean_variable_names.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "839159ab654eff53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_faire_abra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6f6e56a94ea94b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "idees_diapo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,10 +144,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "__recherche",
+                "query": "livres_lu",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": false,
+                "explainSearch": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -254,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "dbe80f0980498334",
@@ -270,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scRT.md",
+                "file": "clean_comments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scRT.md",
+                "file": "clean_comments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,15 +222,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scRT.md"
+                "file": "clean_comments.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -331,17 +244,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a1a0c54a9b7db40",
+  "active": "1cde610b8b2044dc",
   "lastOpenFiles": [
-    "entrypoint__recherche.md",
-    "neovimi3.md",
-    "entrypoint__perso.md",
-    "important.md",
-    "Untitled.md",
-    "plus_tard.md",
-    "entrypoint__idees.md",
-    "idees_wk.md",
-    "idees_chiards.md",
-    "idees_cuisine.md"
+    "clean_code.md",
+    "clean_comments.md",
+    "clean_variable_names.md",
+    "clean_functions.md",
+    "a_faire_abra.md",
+    "livres_lus.md",
+    "a_faire_these.md",
+    "deep_work.md",
+    "a_faire_long.md",
+    "package.md"
   ]
 }

@@ -7,3 +7,5 @@ Here is the thing for the IPS2 paper: [[materiels_et_methodes_IPS2]]
 Here is the thing for [[eleves]]
 
 Here are the things needed for [[ecriture]]
+
+Here are the things on the [[package]]

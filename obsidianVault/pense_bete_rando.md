@@ -27,6 +27,7 @@ SAC A DOS RUNNING 
 - Crème anti ampoule
 - Chaussures
 - Compeed
+- pansements
 
   
 
@@ -66,6 +67,11 @@ dans le sac:
 -   couvert, couteau qui coupe bien, gants, étui a lunette et lunette, un bonnet, trousse de secours avec couverture de survie PLUS OU MOINS CHARTRES OK
 -   maillot de bain PARIS OK 
 -   casquette PARIS 
+- raisins secs 
+- abricot secs
+- parapluie en titane
+- doliprane 
+- boules quies 
 
 Astuces pour le sac:
 -   mettre le duvet et les habits (affaire sales par ex) au fond du sac pour pouvoir s’assoir dessus et savoir qu’on va rien casser

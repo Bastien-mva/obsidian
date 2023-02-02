@@ -1,0 +1,5 @@
+- Drone qui fait des photos 
+- prendre une maison 5 jours avant pour kiffer avec les potes 
+- photobooth 
+- Raconter la vie de l'autre de son point de vue
+- discours avec rhétorique 

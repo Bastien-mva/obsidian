@@ -1,0 +1,75 @@
+- Pierro Gautier    Paris +33615146933
+- Naoul                 Toulouse0679903610
+- Raph léger         Paris 0671234953
+- Nono forski         le havre0643461802
+- Arthur espo.       Calais+33630624776 
+- Aurore Tuillière Paris +33699811686
+- Lola S.              PARIS 0642910219
+- Lola R.              PARIS 0658937575
+- Thomas Rozo.  Paris 
+- Juju     Paris/Chartres+33663896398
+- Charlou.            Tours +33673964865
+- Derore.              Aix 
+- Joël.                  Tours ?0671814713
+- Toon.        La Rochelle +33777371069
+- Bastien Desvaux Anger ?
+- Iphi Girault          Afrique du Sud 
+- Paul Gourdon   Paris +33634276249
+- Paul Moussay    Anger 0658052537
+- Max Pedini.       Paris 
+- Amaury Aidat.   ? 
+- Inès Cvl.           Paris
+- Vicou Lachaud. Paris +33629334443
+- Louis Moussay Partout +33760413985
+- Marie Lucille     Paris 0647070297
+- Quentin Trubert Angers
+- John Dumé Tours +33660797744 
+- Lolo.                  Paris +33626266261
+- Caro Lierre.      Anger +33778207422
+- BenJ Mouly.     Paris 
+- Loulou Tamames paris +33625042661
+- Léo Gillet             paris +33699305261
+- Elliot Muller.         Paris+33679504503
+- Gauthier Roy.       Lille ? 0785569377
+- Nico Wagner.       Paris 0663209516
+- Poullet.                Paris 0688900448
+- Paulus Chauvin.  Paris +33611024593
+- Ambre Bègue.     PARIS 0683334866
+- Hadri Le Floch    Paris
+- Vincent Charléty Paris +33640126877
+- Ariane Cwiling.   Paris0787166148
+- Victoire Belvèze Paris
+- Nathan Quivlier Lyon
+- Lucien Boulet.   Paris
+- Emma Solviche Paris 
+- Victoire Evereare Lille 0695536187
+- Sophie Pigeon.   Paris 0618303876
+- Hugo Paolini.      Paris 0670584074
+- Léa Karim.          Paris+33648148448
+- Paulo Girard      Paris 0642148420
+- Doron Israël.     Paris +33616187901
+- Lucas Brion.      Paris 0695005367
+- Serge.               Paris 
+- Max Vallet.        Paris 0699280094
+- Noam Aflalo     Londres 0623780945
+- Laure Michaud Paris  
+- Max Delpeux.   Lille +33646178260
+- Sacha Braun Paris 
+- Eric Joliclerc.     Chartres 0682724823
+- Arnaud Ancion. Chartres0687387606
+- Tomas Zaloudek  Chartres 
+- Olivier Maupu.     Chartres
+- Pascal GR20  Avignon 0628065598
+- Adel GR20.     Paris/Marseille 0752636014
+- Marie Tryba.   Paris/Espagne 0750980071
+- Clément Russilly Paris/VIE ? 0627514746
+- Raphaël GR20.  Paris 0687793243
+- Rémi Boutin Paris 0664893160
+- Armand Favrot Paris 0661632911
+- Pascal Legrand Chartres 0618821479
+- Audrey  Dut.  Chartres 0698465698
+- David Dut. Chartres 0614188691
+- Baptiste Calot Paris 0666936096
+- Calin Chartres +33633711692
+- Devraj ? +33612046006
+- Jacopo Grenoble 0750370093

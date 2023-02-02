@@ -8,4 +8,5 @@
 - [[pense_bete]]
 - [[kdo]]
 - [[sport]]
-- 
+- [[potes]]
+- [[habits]]

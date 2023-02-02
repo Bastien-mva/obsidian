@@ -1,0 +1,12 @@
+- Veste comme ma chemise beige 
+- New Balance 
+- Pantalon loose Carhartt 
+- Pantalon levis loose fit 
+- Wide leg 
+- Taille haute 31*31
+- Pr cam: 70's straight 
+- Grosse chaussette haute 
+- New Balance: 42.5 
+- Reebok: 42.5 club C revenge
+- Jean en velours côtelé 
+- Casquette

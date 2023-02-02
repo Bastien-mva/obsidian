@@ -1,4 +1,4 @@
 [[idees_chiards]]
 [[idees_random]]
 [[idees_evdg]]
-[[idees_anniv_mariage?]]
+[[idees_anniv]]

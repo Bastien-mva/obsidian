@@ -15,3 +15,4 @@ Organiser sa boîte mail, comme des redirections etc. 
 - Woofing 
 - Faire des randonnées en âne 
 - Apprendre a bien danser 
+- analyse de données avec PLN et publier sur towards datascience qd le package sera super clean. 

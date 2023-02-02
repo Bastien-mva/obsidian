@@ -1,14 +1,15 @@
-Changer le delta_n et delta_d en nu et rho et faire apparaitre la dépendance en n_s au dessus je pense. 
-Lancer l'algo 100 fois mais aussi changer le nombre d'itérations que l'on prend. 
-Prendre les échantillons précédents ? 
-faire du miniBatch. 
-On peut estimer la KL ? avec de l'IMPS peut etre ? 
-Regarder des papiers sur l'estimation de ratio : Monte Carlo gradient estimation in machine learning. 
-Diagnostic des poids: 
+- Changer le delta_n et delta_d en nu et rho et faire apparaitre la dépendance en n_s au dessus je pense. 
+- Lancer l'algo 100 fois mais aussi changer le nombre d'itérations que l'on prend. 
+- Prendre les échantillons précédents ? 
+- faire du miniBatch. 
+- On peut estimer la KL ? avec de l'IMPS peut etre ? 
+- Regarder des papiers sur l'estimation de ratio : Monte Carlo gradient estimation in machine learning. 
+- Diagnostic des poids: 
 								- Grandeur du bais
 								- variance des poids 
 								- ESS 
-
-Renommer A_ij en M_ij, c'est plus la moyenne, et M_ij sonne comme la moyenne. 
-comparer M et mode
+- Renommer A_ij en M_ij, c'est plus la moyenne, et M_ij sonne comme la moyenne. 
+- comparer M et mode
+- Rajouter des particules au lieu d'en simuler des nouvelles pour estimer si le biais tends vers zéro 
+- Regarder la littérature sur le gradient estimé par du Monte Carlo
 
