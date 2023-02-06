@@ -8,7 +8,6 @@
 								- Grandeur du bais
 								- variance des poids 
 								- ESS 
-- Renommer A_ij en M_ij, c'est plus la moyenne, et M_ij sonne comme la moyenne. 
 - comparer M et mode
 - Rajouter des particules au lieu d'en simuler des nouvelles pour estimer si le biais tends vers zéro 
 - Regarder la littérature sur le gradient estimé par du Monte Carlo
