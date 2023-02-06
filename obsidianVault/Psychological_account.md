@@ -1,0 +1,1 @@
+perdre 20e ou perdre un ticket de concert de 20e, on va préférer aller au concert pour ne pas 'perdre 20e'. 

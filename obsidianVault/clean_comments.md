@@ -1,5 +1,5 @@
 ## Comments
-Comments are failures to have a clear code
+ 
 - comments are failures. We failed to have a clear code 
 - spend time cleaning the mess rather than explaining the mess
 - rename the function instead of comment the function. 

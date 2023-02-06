@@ -10,7 +10,8 @@
 	- check-manifest --create
 	- ensuite: 
 	-  twine upload --skip-existing dist/* (juste twine upload dist/* si il n’a pas été crée jse crois)
-
+- appeler PLN et PLNPCA (pas de PLNnoPCA)
+- essayer profilé
 ## Conseil de JB 
 - enlever les .png 
 - trailing space dans le setup.py 
@@ -28,3 +29,5 @@
 - faire les test unitaires 
 -  developper avec pip install -e 
 - clean un peu l’history qui est trop grosse
+- la doc de matplotlib est top 
+- mettre en kwargs les parametres non importants 

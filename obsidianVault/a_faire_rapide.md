@@ -1,4 +1,3 @@
-
 Investir 
 Organiser un week end doct en montagne 
 Faire un drive administratif
@@ -24,7 +23,6 @@ classeur avec plastifiche pour mes bulletins etc 
 Faire du bubble tea sans tapioca 
 Prendre une carte Vélib' gratos
 Faire son site internet 
-Obsidian 
 Shift your job pr un taff responsable 
 Earthy.fr
 BigBag ? 
@@ -46,18 +44,15 @@ Formation gît diff etc 
 5 balles Emré 
 implémenter PARIS algorithm en c++ ou mm java. 
 materiels et méthodes Julien 
-Virement Sophie 
 checker pile de la lampre frontale 
 lire papier de dirichlet allocation pour MontePlateau 
 Organiser week end soeurs 
 Demander à Julien Lang des ref pr biologie 
-bouilloscope !! 
-remplir notes 
-passer voir Farida 
-croissants Farida 
 créer un interchiennes important 
-mettre obsidian sur github 
 bouger les notes google docs sur obsidian
 kdo pierro 
 lola
 kdo Marie Gohon 
+Rembourser Armand 8.5 
+Acheter du terreau 
+Respire nouch

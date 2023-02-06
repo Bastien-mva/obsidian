@@ -1,0 +1,1 @@
+On a tendance a avoir plus peur de perdre qqch qui nous appartient. 

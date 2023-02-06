@@ -1,0 +1,6 @@
+-  le self-normalized est a part entiere, c'est vraiment ca. Ducoup le biais tend vers 0 avec ca. 
+- enlever le $W \sim$, ca sert a rien. Faire un algo de descente de gradient juste avec 
+- Checker Andrieu et Dousset en 2010. 
+- le bais est en $o(\frac 1 {n})$ alors que la précision est en $o (\frac 1 {\sqrt n })$ donc le biais est négligeable.  
+- faire une disjonction de cas pour le cas $\Omega = I_d$. 
+- protocole de simu sur le tex pour le graphique avec 150 trials. 
