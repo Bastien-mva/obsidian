@@ -1,0 +1,1 @@
+Quels packages doit-on metre dans le py_modules = [] dans le setup.py ? Uniquement les packages utilisés par l'utilisateur ou bien tous les packages ? 

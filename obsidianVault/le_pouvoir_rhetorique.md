@@ -1,176 +1,104 @@
 [[les_differents_arguments]]
 
-# raison du débat 
+##### raison du débat 
 
-Il n'y a pas de vérité, que des valeurs plus ou moins encrées dans notre discours 
+- Il n'y a pas de vérité, que des valeurs plus ou moins encrées dans notre discours 
 
 ## ELABORER UNE LIGNE ARGUMENTATIVE 
 
-1.  #determiner la rigueur des arguments' 
-    
+1.  determiner la rigueur des arguments' 
+	- faire d'abord une liste des arguments. Ensuite déterminer la rigueur de chaque argument. Penser aux contre arguments de l'adversaire et a nos contre arguments également 
+2.  évaluer l'efficacité 
+		 - Quelles sont leur valeurs … = rechercher les prémisses 
+		 - Sélectionner les arg en fonction de l'auditoire 
+		 - Si en direct, ajuster le discours en fonction des réactions de l'auditoire
 
-faire d'abord une liste des arguments. Ensuite déterminer la rigueur de chaque argument. Penser aux contre arguments de l'adversaire et a nos contre arguments également 
-
-2.  # évaluer l'efficacité 
-    
-
-Sélectionner les arg en fonction de l'auditoire 
-
-Quelles sont leur valeurs … = rechercher les prémisses 
-
-Si en direct, ajuster le discours en fonction des réactions de l'auditoire
-
-# en contexte délibératif. 
-
+##### en contexte délibératif. 
 Une super chose: écouter l'adversaire pour en savoir plus. Quelles prémisses utilisent ils ? 
 
   
 
 ## 3 types d'objection 
 
-#les objections ad rem 
+##### les objections ad rem 
+- Attaquer les arguments 
 
-Attaquer les arguments 
+##### [[les_objections_ad_hominem]] soulevent un problème de cohérence du discours, soit par ses arguments soit pas les faits de l'adversaire. 
 
-# objections ad hominem 
 
-Attaquer la cohérence de la ligne argumentative. On attaque un ensemble d'arguments: mis bout à bout, ils st contradictoire 
+##### [[les_objections_ad_personam]] s'attaquent a la personne directement. peu moral et très fallacieux
 
-Ad hominem interne: soulever un pb a l'intérieur de son discours, incompatibilité entre arguments. 
+##### [[devancer_les_objections]] permet que les objections ne soient pas annocées (prolepse). Indispensable dans un contexte monologique. 
 
-Ad hominem externe: 
+##[[que_faire_si_l'autre_donne_un_argument_très_dérangeant]] 
 
-Soulever un pb a l'extérieur du discours, i.e. ce qu'il disait/faisait avant 
-
-Chacun est plus ou moins incohérent entre ses valeurs et ses actes. Le révéler est redoutable 
-
-# ad personam 
-
-Discréditer la personne en elle même, attaquer sa personne. Le risque est de nous discredibiliser nous même 
-
-As personam interne: rapport entre lui et son discours. Ex: frère qui suggère d'investir dans une technologie nulle. On lui rappelle qu'il ns avait suggéré d'investir dans la bulle d'internet et des subprimes 
-
-Ad personam externe: aucun lien avec le débat. Très fallacieux. Ex: 
-
-# devancer les objections 
-
-Anticiper les objections avant qu'elles soient annoncées: prolepse
-
-Dans un contexte monologique, c'est indispensable. Mais il faut être certain que les contre arguments auxquels on pense sont bien présent, sinon contre productif 
-
-En contexte compétitif: très difficile à utiliser. L'adversaire va s'en servir. 
-
-## que faire si l'autre donne un argument très dérangeant ? 
-
-# Dénégation 
-
-Nier en bloc (si il n'y a pas trop de preuve).si impossible, nier quelques faits et en conséquence l'adversaire sera un peu désemparé. Nous permet de gagner du temps 
-
-# l'interprétation 
-
-Reconnaître les faits mais changer les intentions: donner de bonnes intentions 
-
-# la relativisation 
-
-Darmanin 
-
-Récap: 
-
-Quel est l'ensemble des arg à notre dispo ? 
-
-Lesquels sont rigoureux, avec les info qu'on a ? 
-
-Lesquels efficaces pour l'auditoire ? 
-
-Lesquels st important pr nous ? 
-
-Quelles objections vont être posées ? 
-
-Comment y répondre ? 
-
-Chercher a les devancer ou attendre ? 
-
-Quels fait pr appuyer nos args ? 
-
-Comment se défendre ? 
+### Récap: 
+- Quel est l'ensemble des arg à notre dispo ? 
+- Lesquels sont rigoureux, avec les info qu'on a ? 
+- Lesquels efficaces pour l'auditoire ? 
+- Lesquels st important pr nous ? 
+- Quelles objections vont être posées ? 
+- Comment y répondre ? 
+- Chercher a les devancer ou attendre ? 
+- Quels fait pr appuyer nos args ? 
+- Comment se défendre ? 
 
 ## avoir une idée directrice 
 
 Savoir formuler sa pensée en une phrase. 
 
-# nb d'arguments 
-
-Si un seul argument nous semble rigoureux et cohérent, alors s'y tenir et ne pas en rajouter d'autres moins rigoureux ( contre productif) 
-
-Le bon nombre est le nombre de bons arguments 
-
-Il faut une rhétorique claire et concise, ne pas se perdre avec trop d'arguments 
+##### [[le_nombre_darguments]] est le nombre de bons arguments
 
 ## les plans logiques 
 
 4 type de plans: 
 
-#Plan analytique: logique linéaire, point par point et chaque point decoule du précédent. ( Problèmes, causes, conséquences, recommandations) 
+##### 1. Plan analytique:
+- logique linéaire, point par point et chaque point decoule du précédent. ( Problèmes, causes, conséquences, recommandations) 
 
-#Plan dialectique: 
+##### 2. Plan dialectique: 
+plusieurs possibilités : 
+- Thèse, antithèse ( en montrant les limites, erreurs), notre propo>thèse 
+- Plan chronologique 
+- Plan thématique 
+	- Thème par thème 
+	- Chaque thème dégage une proposition, notre propo est la combi de toutes ces propo 
 
-Thèse, antithèse ( en montrant les limites, erreurs), notre propo>thèse 
+- Temps assez long de préparation pr ces plans 
 
-Plan chronologique 
+##### 3. Plan énumératif
 
-Plan thématique 
+- Donner l'accroche puis l'idée directrice et donner chaque argument 1 par 1
+- Donner efficacement chaque argument avec une formule forte et un exemple fort 
+- Bénef: temps court de prise de parole et de préparation  
 
-Thème par thème 
+##### 4. Plan narratif 
 
-Chaque thème dégage une proposition, notre propo est la combi de toutes ces propo 
+Articulation comme un récit, donc un peu comme: 
+- Situation initiale
+- Élément déclencheur
+- Péripéties 
+- Dénouement 
+- Situation finale 
 
-Temps assez long de préparation pr ces plans 
+mais pour un discours: 
+- Tension 
+- Répercussions 
+- Recommandation 
 
-## Plan énumératif
+- Particulièrement eff qd on doit capter l'attention 
 
-Donner l'accroche puis l'idée directrice et donner chaque argument 1 par 1
+##### Bonus: pas de plan 
+- On débale tout a l'arrache, argument par argument, ce qui ns passe par la tête 
 
-Donner efficacement chaque argument avec une formule forte et un exemple fort 
+Comment organiser son discours: 
+##### [[l_ordre_nestorien]] 
 
-Bénef: temps court de prise de parole et de préparation  
-
-## plan narratif 
-
-Articulation comme un récit, non pas 
-
-Situation initiale
-
-Élément déclencheur
-
-Péripéties 
-
-Dénouement 
-
-Situation finale 
-
-Mais à la place, on fait : 
-
-Tension 
-
-Répercussions 
-
-Recommandation 
-
-Particulièrement eff qd on doit capter l'attention 
-
-## pas de plan 
-
-On débale tout a l'arrache, argument par argument, ce qui ns passe par la tête 
-
-## l'ordre nestorien
-
-Commencer très fort pour capter l'attention et la bienveillance 
-
-Commencer trop lent est nul: discours de témoin de mariage qui démarre trop lentement. Approche descriptive ( je suis tel, je fais ça pour …) nul. Manque d'entrain. Commencer par une citation c'est top. Des mariés ou non. 
+Il permet de bien commencer et capter l'attention (par ex une citation)
 
 Avec une citation connue on se range derrière qlqn de grand. 
 
-# la question rhétorique consiste à se poser une question  à nous même pour susciter l'attention de la réponse. 
+ - **la question rhétorique consiste à se poser une question  à nous même pour susciter l'attention de la réponse. **
 
 Commencer par une métaphore, filée si possible. Cela marque les esprits 
 

@@ -24,90 +24,82 @@ Mouche qui s'écrase il y a 30 ans plus mnt. 
 
 ###### Argument par comparaison 
 - easy
+
 ##### argument par le précédent 
+- Montrer que ca a deja marché. 
 
 ##### argument par le droit 
-
 Être obligé par la loi 
 
-# argument par la santé 
+##### argument par la santé 
+- l'argument te mettrait en meilleure santé 
 
-# argument par l'économie 
+##### argument par l'économie 
+- Faire comme ca te rendra plus riche ... 
 
-## arguments de communauté 
+##### arguments de communauté 
 
-Fonder la validité d'une proposition sur l'adhésion préalable à des valeurs 
+- Fonder la validité d'une proposition sur l'adhésion préalable à des valeurs, très bancale si qlqn la fait, peu etre remis en cause rapidement. 
 
-# argument par la tradition 
+##### argument par la tradition 
+- Ne pas avoir manger de viande pdt 10000 ans 
 
-Ne pas avoir manger de viande pdt 10000 ans 
-
-# argument par la religion 
-
+##### argument par la religion 
 Dieu dit tu cherieras la terre 
 
-# argument par la morale 
+##### argument par la morale 
 
-# argument par la sagesse 
+##### argument par la sagesse 
 
-# argument par la sagesse 
+- Citer un proverbe. Contre-argument l'exemple de il n'y a pas de fumée sans feu, c'est faux. 
 
-Citer un proverbe 
+##### argument par l'égalité
+Les riches émettent du gaz, les pauvres le subissent. Ce n'est pas égalitaire.  
 
-# argument par l'égalité
-
-Les riches émettent du gaz, les pauvres le subissent. 
-
-# argument de la liberté 
-
+##### argument de la liberté 
 Être libre de choisir par rapport aux contraintes que l'on subira plus tard 
 
-# argument par la fraternité 
+##### argument par la fraternité 
 
-## arguments d'autorité 
+##### arguments d'autorité 
+Fonder une proposition que qlqn qui ne peut être remis en cause comme l'INSEE. 
 
-Fonder une proposition que qlqn qui ne peut être remis en cause comme l'INSEE 
+##### argument par le témoignage 
 
-# argument par le témoignage 
+##### argument par l'expertise 
 
-# argument par l'expertise 
+##### argument par la science 
 
-# argument par la science 
-
-## argument par analogie
+##### argument par analogie
 
 Si une prop est vraie alors la mienne également 
 
 Ex: maison qui brûle et nous regardons ailleurs. 5G = jouet 
 
-# argument de communauté  par le bon sens et l'exemple sont redoutable 
+##### argument de communauté  par le bon sens et l'exemple sont redoutable 
 
-Le bon sens est intuitif et faux de temps en temps (la terre est plate) 
+- Le bon sens est intuitif et faux de temps en temps (la terre est plate) 
+- Ex: le climat ne se réchauffe pas car il fait 5 degrés en mai 
+- Si il est nul a l'école c'est qu'il ne travaille pas. 
 
-Ex: le climat ne se réchauffe pas car il fait 5 degrés en mai 
+###### *Si on veut s'y opposer, il faut des gros arguments, alors que c'est très court a formuler*
 
-Si il est nul a l'école c'est qu'il ne travaille pas. 
+- Loi de brandolini: la quantité d'NRJ qu'il faut mettre pour réfuter est très grosse comparé à celle pour enoncer la sotise.  
 
-Si on veut s'y opposer, il faut des gros arguments m, alors que c'est très court a formuler 
+- Attention pcq si démasqué: démagogie 
 
-Loi de brandolini 
+- Comment les déceler : 
 
-Attention pcq si démasqué: démagogie 
+- Ils commencent svt par honnêtement, franchement, on va pas se mentir …
 
-Comment les déceler : 
+- Les proverbes st svt faux: il n'y a pas de fumée sans feu: bcp d'histoires de propos infondées sont vrais. 
 
-Ils commencent svt par honnêtement, franchement, on va pas se mentir …
-
-Les proverbes st svt faux: il n'y a pas de fumée sans feu: bcp d'histoires de propos infondées sont vrais. 
-
-# argument par exemple
+##### argument par exemple
 
 Exemplifier un argument:
-
-Illustrer un propos par l'exemple
+- Illustrer un propos par l'exemple
 
 Argumenter par l'exemple : 
+- L'exemple devient l'arg. Attention, il faut mettre qqch avec: chiffres … 
 
-L'exemple devient l'arg. Attention, il faut mettre qqch avec: chiffres … 
-
-Le seul exemple ne doit pas suffir a se laisser convaincre 
+- Le seul exemple ne doit pas suffir a se laisser convaincre 

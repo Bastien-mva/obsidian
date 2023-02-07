@@ -1,33 +1,27 @@
 - Faire des channels etc avec python (checker sur internet) 
 - faire un readthedocs (Julien) 
 - test with pytest
-- enlever les requirements superieur 
-- changer les Sigma_b en Sigma_prop_b et les sqrt_Sigma_b en sqrt_Sigma_prop_b. (avec ctrl F) 
-- pouvoir print imps après l’avoir run plusieurs fois 
+- faire un extract gaussian layer qui renvoie la couche latente gaussienne pr faire du ML. 
+- Il faudrait aussi faire du clustering ... comment ca se passe si on a plusieurs clusters ? 
 - MANIP A FAIRE pour installer le package : 
 	- pip install -e pour l'installer en local. 
 	- python setup.py bdist_wheel  sdist
 	- check-manifest --create
 	- ensuite: 
 	-  twine upload --skip-existing dist/* (juste twine upload dist/* si il n’a pas été crée jse crois)
-- appeler PLN et PLNPCA (pas de PLNnoPCA)
-- essayer profilé
 ## Conseil de JB 
-- enlever les .png 
-- trailing space dans le setup.py 
 - checker le license de parametrization cookbook, ainsi que le setup 
 - license=”MIT”, c’est tout 
-- classifiers tout mettre sauf le dernier 
+- classifiers tout mettre sauf le dernier (dans le parametrization cookbook) 
 - mettre les project url 
 - faire la doc sur github 
 - regarder sphinx pour (generer) la doc
 - papier scientifique donc docstring au format numpydoc 
 - faire project url au lieu de url et en mettre plusieurs (source) 
-- enlever images 
-- mettre que les packages et pas des numéros. 
-- commencer les noms des modules par _
 - faire les test unitaires 
 -  developper avec pip install -e 
 - clean un peu l’history qui est trop grosse
 - la doc de matplotlib est top 
 - mettre en kwargs les parametres non importants 
+
+[[question_package_JB]]

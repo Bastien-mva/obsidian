@@ -1,0 +1,2 @@
+- Commencer très fort pour capter l'attention et la bienveillance 
+- Commencer trop lent est nul: discours de témoin de mariage qui démarre trop lentement. Approche descriptive ( je suis tel, je fais ça pour …) nul. Manque d'entrain. Commencer par une citation c'est top. Des mariés ou non. 

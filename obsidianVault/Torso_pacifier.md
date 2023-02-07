@@ -1,7 +1,7 @@
 
 #### Torso lean
 
-- On écarte notre torse de ce qui nous dérange ou ceux qu'on déteste. Par ex quand un couple a finit de se disputer et se tourne le dos dans une voiture. 
+- On éloigne notre torse de ce qui nous dérange ou ceux qu'on déteste. Par ex quand un couple a finit de se disputer et se tourne le dos dans une voiture. 
 
 #### ventral denial
 
@@ -16,7 +16,6 @@
 - Croiser ses bras ou mettre un oreiller pour proteger son torse. Defois croiser les bras ne veut rien dire, mais svt si, surtout si on agrippe fort les bras avec ses doigts. Inconfort.
 
 - Bonus: lors d’une engueulade, on arrete de digérer car notre limbic système met tout le sang dans les bras tout ca pour etre pret a fuir, pas pour la digestion.
-
 
 #### preening 
 
