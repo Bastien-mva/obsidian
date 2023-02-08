@@ -92,207 +92,160 @@ mais pour un discours:
 - On débale tout a l'arrache, argument par argument, ce qui ns passe par la tête 
 
 Comment organiser son discours: 
+### Bien commencer 
 ##### [[l_ordre_nestorien]] 
-
 Il permet de bien commencer et capter l'attention (par ex une citation)
 
 Avec une citation connue on se range derrière qlqn de grand. 
 
  - **la question rhétorique consiste à se poser une question  à nous même pour susciter l'attention de la réponse. **
 
-Commencer par une métaphore, filée si possible. Cela marque les esprits 
+- Commencer par une métaphore, filée si possible. Cela marque les esprits 
 
-Dans le même genre: suspension filée pour tenir en haleine l'auditeur. Ne pas révéler trop tôt ni trop tard. L'objet ne doit pas être trop évident ou trop compliqué 
+- Dans le même genre: suspension filée pour tenir en haleine l'auditeur. Ne pas révéler trop tôt ni trop tard. L'objet ne doit pas être trop évident ou trop compliqué 
 
-# suspension simple. 
+##### suspension simple. 
 
-Donner un semi titre a l'objet dont on parle (ex:234 minutes) 
+- Donner un semi titre a l'objet dont on parle (ex:234 minutes) 
 
-# la narration simple 
+##### la narration simple 
 
-Raconter une histoire, anecdote. Att, trop fréquemment utilisé. 
+Raconter une histoire, anecdote. Attention, trop fréquemment utilisé. 
 
-# la description 
+##### la description 
 
-Aucune action. Illustrer une scène de notre esprit. Le plus vivant ,coloré possible. Plume affutée sinon grotesque. Attention au contexte qui doit être plutôt jovial. 
+- Aucune action. Illustrer une scène de notre esprit. Le plus vivant ,coloré possible. Plume affutée sinon grotesque. Attention au contexte qui doit être plutôt jovial. 
 
-# contre intuition 
+##### contre intuition 
 
-Ex: je déteste l'amour … vive les mariés. 
+- Ex: je déteste l'amour … vive les mariés: 
+Déstabilise les auditeurs. Audace 
 
-Déstabiliser les auditeurs. Audace 
+##### provocation. 
 
-# provocation. 
+- Ex 50 % des mariages finissent en divorce… mais c vs qui avez raison, aimez vous. 
+- Capté l'attention a tous les coups mais très audacieux. Sur des temps courts avec de la bienveillance. 
 
-Ex 50 % des mariages finissent en divorce… mais c vs qui avez raison, aimez vous. 
+##### appel à l'imaginaire 
 
-Capté l'attention a tous les coups mais très audacieux. Sur des temps courts avec de la bienveillance. 
+- Imaginez vous dans telle pièce … 
 
-# appel à l'imaginaire 
+- Les auditeurs doivent être actif. Ne pas trop demander ni demander de fermer les yeux. 
 
-Imaginez vous dans telle pièce … 
+##### la question directe. 
 
-Les auditeurs doivent être actif. Ne pas trop demander ni demander de fermer les yeux. 
+- J'aimerais vs poser une question. 
 
-# la question directe. 
+- Être prêt à se montrer insistant. Ne pas trop demander, juste une question fermée. Être prêt à la réponse opposée.
 
-J'aimerais vs poser une question. 
+##### le trait d'humour 
 
-Être prêt à se montrer insistant. Ne pas trop demander, juste une question fermée. Être prêt à la réponse opposée. 
+- Éviter les fiasco. Assez risqué. 
+- On peut facilement continuer avec l'autoderision si on a bien commence 
 
-# le trait d'humour 
+### [[composer_une_accroche_adaptée_au_contexte]] est important. 
 
-Éviter les fiasco. Assez risqué. 
+### Conclure avec panache
 
-On peut facilement continuer avec l'autoderision si on a bien commence 
+##### avoir des applaudissements
 
-## composer une accroché adaptée au contexte 
+- besoin de créer de la saillance et de la résolution. 
+- Créer de la saillance: faire ses phrases de plus en plus courtes, plus intenses. Monter crescendo. Aussi corporel. Mettre des hyperboles, ex: le plus important des choix …
 
-Question rhétorique et suspension simple: situation peu formelle comme réunion … vidéos réseaux sociaux 
+- Métaphore et répétition sont très importants pour la saillance. Epanalepse: répéter la mm chose a 3 reprises. "Car la France n'est pas seule ! Elle n'est pas seule !" De Gaulle 
 
-Accroché par imaginaire, question directe, suspension filée: contexte magistraux comme conférence, tables rondes. 
+- Ou anadiplose: utiliser le mm mot au a la fin d'une phrase et au début de la suivante. Et faire ça plusieurs fois avec des mots de début*fin différents très fort.
 
-Accroche par citation, narration, metaphorisation: tres flexible. 
+- Les assonances: ce sont des sons et non pas des mots qui se répètent. Tres élégant et musical. 
 
-Description, contre intuition, provoc sont très délicates. 
+- Référence mobilisatrice ( comme de Gaulle ). Rappeler le passé. 
 
-Peu de raison pour faire l'accroche descriptive. 
+- Si pas de ref, utilise des mots passe partout comme mérite, effort, égalité … des mots connotes positivement 
 
-On est pas obligé de rentrer dans le dur directement: une première phrase courte descriptive est ok. 
+##### donner un sentiment de résolution 
 
-Bien sûr, merci de m'avoir présenté. Ou bien: content que tu me poses la question. 
+- Utiliser l'anaphore: utiliser les même 3 4 mots en début ou fin de phrase. 
+- Dur à utiliser, ne pas perdre le souffle 
 
-## Conclure avec panache
+##### énumération ternaire 
 
-# avoir des applaudissements
+Donne un sentiment de clôture. Enumeration avec 3 termes, qui semble naturel. 
 
-Saillance et la résolution. 
+Ex: je suis venu j'ai vu j'ai vaincu. Liberté égalité fraternité.  
 
-Créer de la saillance: faire ses phrases de plus en plus courtes, plus intenses. Monter crescendo. Aussi corporel. Mettre des hyperboles, ex: le plus important des choix …
+##### l'opposition binaire
 
-Métaphore et répétition sont très importants pour la saillance. Epanalepse: répéter la mm chose a 3 reprises. "Car la France n'est pas seule ! Elle n'est pas seule !" De Gaulle 
+- Avec l'Antithèse: mettre en opposition deux termes ou deux prop: serveur et maître. Blanc ou noir. 
 
-Ou anadiplose: utiliser le mm mot au a la fin d'une phrase et au début de la suivante. Et faire ça plusieurs fois avec des mots de début*fin différents très fort.
+- Une fois que le deuxième terme est énoncé, on a compris que c'est la fin. (Clôture) 
 
-Les assonances: ce sont des sons et non pas des mots qui se répètent. Tres élégant et musical. 
+- Chiasme: double répétition par ordre inversé. (AB,BA). Très élégant. Ex: 
+Ce que la République peut faire pour lui, ce que la République peut faire pr lui(mal recopié). Français moyen … le moyen d'être un français. Claptrap redoutable. 
 
-Référence mobilisatrice ( comme de Gaulle ). Rappeler le passé. 
+##### l'annonce
 
-Si pas de ref, utilise des mots passe partout comme mérite, effort, égalité … des mots connotes positivement 
+- Annoncer ce qu'on va dire (= question rhétorique + suspension) 
 
-## donner un sentiment de résolution 
+##### combinaison 
+- Combiner plusieurs en mm temps
 
-Utiliser l'anaphore: utiliser les même 3 4 mots en début ou fin de phrase. 
-
-Dur à utiliser, ne pas perdre le souffle 
-
-# énumération ternaire 
-
-Donne un sentiment de clôture. Enumerztion avec 3 termes, qui semble naturel. 
-
-Ex: je suis venu j'ai vu j'ai vaincu 
-
-# l'opposition binaire
-
-Avec l'Antithèse: mettre en opposition deux termes ou deux prop: serveur et maître. Blanc ou noir. 
-
-Une fois que le deuxième terme est énoncé, on a compris que c'est la fin. (Clôture) 
-
-Chiasme: double répétition par ordre inversé. (AB,BA). Très élégant. Ex: 
-
-Ce que la République peut faire pour lui, ce que la République peut faire pr lui. Français moyen … être le moyen d'être un français. Claptrap redoutable. 
-
-# l'annonce
-
-Annoncer ce qu'on va dire (= question rhétorique + suspension) 
-
-# combinaison 
-
-Combiner plusieurs en mm temps
-
-CCL: amener de la saillance puis finir en clôturant comme il faut: applaudissements
+**CCL: amener de la saillance puis finir en clôturant comme il faut: applaudissements**
 
 PLAN: 
 
-BIEN FORMULER NOTRE IDEE DIRECTRICE,IDENTIFIER LE BON NOMBRE D'ARGUMENTS,GARDER EN TETE LA PRIORITE, CLARTÉ ET LA CONCISION. Ensuite: DEFINIR LE PLAN (logique …). Ensuite, ACCROCHE EX ABRUPTO, CLOTURE. 
+**BIEN FORMULER NOTRE IDEE DIRECTRICE,IDENTIFIER LE BON NOMBRE D'ARGUMENTS,GARDER EN TETE LA PRIORITE, CLARTÉ ET LA CONCISION. Ensuite: DEFINIR LE PLAN (logique …). Ensuite, ACCROCHE EX ABRUPTO, CLOTURE**
 
   
 
-### FACONNER SON TEXTE 
+## FACONNER SON TEXTE 
 
-## le domaine de l'implicite 
+### le domaine de l'implicite (très important)
 
-Permet de dire qqch sans en prendre la responsable 
+- **Permet de dire qqch sans en prendre la responsable**
+##### ce que l'on précise, c'est ce qui ne va pas de soi 
+- Autre: **ce que l'on enonce, c'est ce que l'on met en discussion**
+- Il y a des choses qu'il ne faut pas dire, qu'il faut qu'elles soient implicites. D'autres non, comme des sensations, qui st tjrs inconnues. 
+- Par ex: demander le respect quand on se fait manquer de respect. Désastre 
+- Ne pas formuler ce qui relève de l'évidence. 
 
-# ce que l'on précise, c'est ce qui ne va pas de soi 
+- Si des paroles lourdes avec trop de légèreté: **les mots ont un sens**
 
-Autre: ce que l'on enonce, c'est ce que l'on met en discussion 
+#### [[dénotation_et_connotation]] permettent d'ancrer quelque chose de positif (ou nég pour l'adversaire) dans la tete de l'auditeur. 
 
-Il y a des choses qu'il ne faut pas dire, qu'il faut qu'elles soient implicites. D'autres non, comme des sensations, qui st tjrs inconnues. 
+##### prétérition (super efficace)
 
-Par ex: demander le respect quand on se fait manquer de respect. Désastre 
+- Faire circuler un message neg en utilisant des négations. Le message est implicite: vs n'êtes pas un voleur. On dit que c'est un voleur en soi. 
 
-Ne pas formuler ce qui relève de l'évidence. 
+- Si l'autre niew en soit on a rien dit. Argument indéfendable plus ou moins. On peut le défendre en disant que c'est odieux de faire comme ça (évoquer, l'air de rien …). "Bénéficier a la fois de l'efficacité de la parole et de l'innocence du silence". 
 
-Si des paroles lourdes avec trop de légèreté: "les mots ont un sens". 
+##### négations néfastes au quotidien. 
+- Phrases banales a connotation négative m: c'est pas mal, pas bête, ne stresse pas. 
+- Implicitement on est très négatif. Utiliser plutôt m c'est bien … 
 
-## dénotation et connotation 
+##### les dimensions. 
+- Plus la dim est petite, plus notre donnée va être grande: 1 an et demi est plus grand que 18 mois. 
+- Les auditeurs perçoivent rarement la mesure des grands nombres. Un million est extrêmement petit pr le gouvernement, mais très grand pour les citoyens. 
 
-Dénotation : sens littéral 
+##### la précision 
 
-Connotation: ensemble des représentations du mot 
+- Plus on est précis plus ce sera scientifique et donc on aura confiance. Par contre, pour faire comprendre une idée, il vaut mieux arrondir. (10 ans, au lieu de 9ans et 8 mois). 
 
-Trouver le mot qui a la meilleure connotation. 
+##### la bataille des mots. 
+- Charge sociale = cotisations sociales. Mais les connotations sont opposées. 
+- Les mots définissent une guerre des idées.
 
-Il faut employer des mots a connotation positive pour notre proposition. Par ex, agonie si on défend la corrida est très mal choisi. 
+#### les verbes 
+- Le verbe permet d'allouer la responsabilité. On peut dire: "j'ai fait ça"mais c dangereux.  "Ce que l'on précise, c'est ce qui ne va pas de soi".
 
-Si qlqn utilise un mot à connotation neg, on peut dire: je préfère employer le mot …ex: intello-> rigoureux et scientifique. Si l'autre personne veut le redéfinir, elle paraît tatillonne. 
+##### sélectionner les pronoms 
+- On" est  bien moins accablant que "je. Je" donne une responsabilité. "Nous" de majesté ou d'humilité. 
+- On dit "je" quand c'est un truc bien, "nous" quand on veut avoir moins de responsabilité, donner une ambiguïté. 
 
-Ne pas utiliser de mot a connotation négative pr se décrire soi même. Écarter les connotations neg. 
+##### verbes impersonnels 
 
-# prétérition
+- "Il" permet d'exprimer une action sans préciser son sujet. Ex: il faut lutter contre les ineg. Il n'engage personne. 
 
-Faire circuler un message neg en utilisant des négations. Le message est implicite: vs n'êtes pas un voleur. On dit que c'est un voleur en soi. 
-
-Si l'autre niew en soit on a rien dit. Argument indéfendable plus ou moins. On peut le défendre en disant que c'est odieux de faire comme ça (évoquer, l'air de rien …). "Bénéficier a la fois de l'efficacité de la parole et de l'innocence du silence". 
-
-# négations néfastes au quotidien. 
-
-Phrases banales a connotation négative m: c'est pas mal, pas bête, ne stresse pas. 
-
-Implicitement on est très négatif. Utiliser plutôt m c'est bien … 
-
-# les dimensions. 
-
-Plus la dim est petite, plus notre donnée va être grande: 1 an et demi est plus grand que 18 mois. 
-
-Les auditeurs perçoivent rarement la mesure des grands nombres. Un million est extrêmement petit pr le gouvernement. 
-
-# la précision 
-
-Plus on est précis plus ce sera scientifique et donc on aura confiance. Par contre, pour faire comprendre une idée, il vaut mieux arrondir. ( 10 ans, au lieu de 9ans et 8 mois). 
-
-# la bataille des mots. 
-
-Charge sociale = cotisations sociales. Mais les connotations sont opposées. 
-
-Les mots définissent une guerre des idées.
-
-## les verbes 
-
-Le verbe permet d'allouer la responsabilité. On peut dire: "j'ai fait ça"mais c dangereux.  "Ce que l'on précise, c'est ce qui ne va pas de soi".
-
-# sélectionner les pronoms 
-
-On" est  bien moins accablant que "je. Je" donne une responsabilité. "Nous de majesté ou d'humilité. 
-
-On dit "je quand c'est un truc bien, "nous quand on veut avoir moins de responsabilité, donner une ambiguïté. 
-
-# verbes impersonnels 
-
-"Il permet d'exprimer une action sans préciser son sujet. Ex: il faut lutter contre les ineg. Il n'engage personne. 
-
-"Falloir" fait preuve de fermeté. Ne pas engager sa responsabilité avec des "il faut" etc. 
+- "Falloir" fait preuve de fermeté et en plus: ne pas engager sa responsabilité avec des "il faut" etc. 
 
 # manier la voix passive. 
 
