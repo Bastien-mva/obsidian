@@ -84,7 +84,7 @@ Ex: maison qui brûle et nous regardons ailleurs. 5G = jouet 
 
 ###### *Si on veut s'y opposer, il faut des gros arguments, alors que c'est très court a formuler*
 
-- Loi de brandolini: la quantité d'NRJ qu'il faut mettre pour réfuter est très grosse comparé à celle pour enoncer la sotise.  
+- Loi de brandolini(principe d'asymétrie des barratins): la quantité d'NRJ qu'il faut mettre pour réfuter est très grosse comparé à celle pour enoncer la sotise.  
 
 - Attention pcq si démasqué: démagogie 
 

@@ -23,5 +23,6 @@
 - clean un peu l’history qui est trop grosse
 - la doc de matplotlib est top 
 - mettre en kwargs les parametres non importants 
+- print (aka __repr__) devrait return un string !
 
 [[question_package_JB]]
