@@ -26,3 +26,5 @@
 - print (aka __repr__) devrait return un string !
 
 [[question_package_JB]]
+
+[[docstring_a_faire]]

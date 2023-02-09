@@ -53,6 +53,7 @@ bouger les notes google docs sur obsidian
 kdo pierro 
 lola
 kdo Marie Gohon 
-Rembourser Armand 8.5 
+Rembourser Armand 10
 Acheter du terreau 
 Respire nouch
+deguisement dunkerque juste du vieux maquillage
