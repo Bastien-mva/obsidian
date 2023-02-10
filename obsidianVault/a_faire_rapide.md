@@ -30,11 +30,8 @@ Checker séminaire avant 
 Organiser Chandeleur
 Cife
 SEME 
-Gratitude 
 Pas compétent 
 cleaner son compte github ainsi que les codes 
-Respire 
-Pantalon Vinted
 Davidejonatown TF1 Replay
 Éponge recyclable 
 Bâche a vélo
@@ -43,7 +40,6 @@ Investir 
 Formation gît diff etc 
 5 balles Emré 
 implémenter PARIS algorithm en c++ ou mm java. 
-materiels et méthodes Julien 
 checker pile de la lampre frontale 
 lire papier de dirichlet allocation pour MontePlateau 
 Organiser week end soeurs 
@@ -54,6 +50,7 @@ kdo pierro 
 lola
 kdo Marie Gohon 
 Rembourser Armand 10
-Acheter du terreau 
 Respire nouch
-deguisement dunkerque juste du vieux maquillage
+mettre le data_to_image dans un package. 
+github CI
+Gratitude 

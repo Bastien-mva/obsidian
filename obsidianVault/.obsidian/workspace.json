@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "le_pouvoir_rhetorique.md",
+                "file": "package.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c357ac469c70fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_faire_rapide.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "6cb1f936397a4b4c",
@@ -56,7 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "le_pouvoir_rhetorique.md",
+                "file": "a_faire_rapide.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -114,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pouvoir",
+                "query": "a_faire_rapide",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "le_pouvoir_rhetorique.md",
+                "file": "a_faire_rapide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "le_pouvoir_rhetorique.md",
+                "file": "a_faire_rapide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "le_pouvoir_rhetorique.md"
+                "file": "a_faire_rapide.md"
               }
             }
           },
@@ -222,17 +234,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "877156a0087f52b3",
+  "active": "9c357ac469c70fdf",
   "lastOpenFiles": [
-    "l_ordre_nestorien.md",
-    "le_pouvoir_rhetorique.md",
-    "le_nombre_darguments.md",
-    "que_faire_si_l'autre_donne_un_argument_très_dérangeant.md",
-    "devancer_les_objections.md",
-    "les_objections_ad_personam.md",
-    "les_objections_ad_hominem.md",
-    "les_differents_arguments.md",
     "package.md",
-    "question_package_JB.md"
+    "question_package_JB.md",
+    "a_faire_rapide.md",
+    "les_differents_arguments.md",
+    "le_pouvoir_rhetorique.md",
+    "dénotation_et_connotation.md",
+    "composer_une_accroche_adaptée_au_contexte.md",
+    "l_ordre_nestorien.md",
+    "le_nombre_darguments.md",
+    "que_faire_si_l'autre_donne_un_argument_très_dérangeant.md"
   ]
 }
