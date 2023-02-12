@@ -1,0 +1,1 @@
+- L'apparence est importante pour convaincre. On fonde nos jugements sur la personne qui argumenté, pas les arguments.

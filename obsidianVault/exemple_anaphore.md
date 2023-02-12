@@ -1,0 +1,1 @@
+Ces remarques me pèsent, je les subis dans la rue, dans les bars, sur les réseaux. -> Ces remarques me pèsent, je les subis dans la rue. Je les subis dans les bars. Je les subis sur les réseaux. 

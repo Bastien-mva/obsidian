@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a_faire_rapide.md",
+                "file": "bonnes_idees_cuisine_course.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "a_faire_rapide.md",
+                "file": "bonnes_idees_cuisine_course.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a_faire_rapide",
+                "query": "idees",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a_faire_rapide.md",
+                "file": "bonnes_idees_cuisine_course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a_faire_rapide.md",
+                "file": "bonnes_idees_cuisine_course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a_faire_rapide.md"
+                "file": "bonnes_idees_cuisine_course.md"
               }
             }
           },
@@ -236,15 +236,15 @@
   },
   "active": "9c357ac469c70fdf",
   "lastOpenFiles": [
-    "package.md",
-    "question_package_JB.md",
     "a_faire_rapide.md",
-    "les_differents_arguments.md",
     "le_pouvoir_rhetorique.md",
-    "dénotation_et_connotation.md",
-    "composer_une_accroche_adaptée_au_contexte.md",
-    "l_ordre_nestorien.md",
-    "le_nombre_darguments.md",
-    "que_faire_si_l'autre_donne_un_argument_très_dérangeant.md"
+    "exemple_premisse_non_devoile.md",
+    "congruence.md",
+    "cohérence.md",
+    "ethos.md",
+    "discursif.md",
+    "préalable.md",
+    "Travailler son image.md",
+    "indignation-mobilisation.md"
   ]
 }

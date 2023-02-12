@@ -1,0 +1,1 @@
+s'exprime quand on parle, la manière dont on le dit et ce que le corps dit. 

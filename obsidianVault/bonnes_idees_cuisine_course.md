@@ -24,5 +24,6 @@
 - Smoothie avec le mixeur 
 - Soupe à l'oignon 
 - Burrito banane pâte a tartiner
+- soupe 
 [[idees_ingredients_salade]]
 [[idees_brunch]]

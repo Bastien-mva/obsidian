@@ -1,0 +1,1 @@
+Argumentation rigoureusement articulée ou tous les éléments se soutiennent. Également nos positions au cours du temps. Mais c normal d'évoluer, mais avec justification. 

@@ -1,5 +1,6 @@
 [[les_differents_arguments]]
 
+
 ##### raison du débat 
 
 - Il n'y a pas de vérité, que des valeurs plus ou moins encrées dans notre discours 
@@ -147,20 +148,7 @@ Déstabilise les auditeurs. Audace 
 
 ### Conclure avec panache
 
-##### avoir des applaudissements
-
-- besoin de créer de la saillance et de la résolution. 
-- Créer de la saillance: faire ses phrases de plus en plus courtes, plus intenses. Monter crescendo. Aussi corporel. Mettre des hyperboles, ex: le plus important des choix …
-
-- Métaphore et répétition sont très importants pour la saillance. Epanalepse: répéter la mm chose a 3 reprises. "Car la France n'est pas seule ! Elle n'est pas seule !" De Gaulle 
-
-- Ou anadiplose: utiliser le mm mot au a la fin d'une phrase et au début de la suivante. Et faire ça plusieurs fois avec des mots de début*fin différents très fort.
-
-- Les assonances: ce sont des sons et non pas des mots qui se répètent. Tres élégant et musical. 
-
-- Référence mobilisatrice ( comme de Gaulle ). Rappeler le passé. 
-
-- Si pas de ref, utilise des mots passe partout comme mérite, effort, égalité … des mots connotes positivement 
+##### [[avoir_des_applaudissements]] est une notion compliquée ou on a besoin de créer de la saillance 
 
 ##### donner un sentiment de résolution 
 
@@ -243,533 +231,346 @@ PLAN: 
 
 ##### verbes impersonnels 
 
-- "Il" permet d'exprimer une action sans préciser son sujet. Ex: il faut lutter contre les ineg. Il n'engage personne. 
+- "Il" permet d'exprimer une action sans préciser son sujet.[[exemple_impersonnel]] 
 
-- "Falloir" fait preuve de fermeté et en plus: ne pas engager sa responsabilité avec des "il faut" etc. 
+- "Falloir" fait preuve de fermeté et en plus: ne pas engager sa responsabilité (il faut ...)
 
-# manier la voix passive. 
 
-Permet d'oublier le sujet, de faire perdre la responsabilité: le chat mange la souris, la souris est mange par le chat. Voir la souris est mangé. 
+COMMENCER ICI A SUPPRIMER CE QUI EST INUTILE DANS LES NOTES. 
 
-"On a mis des nouvelles méthodes de management" -> "des nouvelles méthodes de management ont été mises en places". On prend moins de responsabilité. "S'il devait être" etc. 
+##### manier la voix passive. 
 
-# des procédés implicites a l'influence inconsciente. 
+Permet d'oublier le sujet, de faire perdre la responsabilité [[exemple_voix_passive]]
 
-Donner une impression vague a l'auditeur qu'il ne pourra remettre en cause car il ne comprends pas d'où ça vient ( l'implicite !)
 
-Attention en tant qu'auditeurs. 
+##### des procédés implicites a l'influence inconsciente. 
 
-# le choix de la modalisation. 
+- Donner une impression vague a l'auditeur qu'il ne pourra remettre en cause car il ne comprends pas d'où ça vient ( l'implicite !)
+- Attention en tant qu'auditeurs, facile de tomber dans le paneau. 
 
-Modalisation: procédé qui permet de connaître le jugement de l'interlocuteur ( très confiant, peu confiant … ) 
-
-Modalisé: discours discutable
-
-Assertif: discours affirmé. 
-
-Outil pour donner la modalisation: 
-
-Conjugaison ( indicatif, subjonctif …) 
-
-Certainement, peut être… 
-
-Devoir, sembler … 
-
-Syntaxe avec des tournures: ?,! 
-
-Intonations, attitude … 
+##### le choix de la [[modalisation]]
 
   
 
-# plus on s'affirme, plus on triomphe des réticences
+##### plus on s'affirme, plus on triomphe des réticences
 
-Convaincu implique convaincant. 
+- Convaincu implique convaincant. 
 
-# plus on fait pression, plus on suscite de résistance. 
+##### plus on fait pression, plus on suscite de résistance. 
 
-Si on est trop assertif, ça se retourne contre nous. 
+- Si on est trop assertif, ça se retourne contre nous.  Chercher le point d'équilibre. 
 
-Chercher le point d'équilibre. 
-
-# l'art de formuler les demandes 
+##### l'art de formuler les demandes 
 
 Très délicat, froisser, déplaire … on peut surmodaliser l'énoncé. 
 
 # la rhétorique incantatoire. 
 
-Transformer la réalité. 
+But : Transformer la réalité très incertaine en réalité certaine avec un discours assertif. 
 
-Def: discours très assertif pour une réalité très incertaine. 
 
-#travailler les assonances 
+##### travailler les assonances 
 
-Assonances: sons de voyelles 
+- Assonances: sons de voyelles 
+- Allitérations: sons de consonnes 
+- Paronomase: mot entier dont la prononciation est proche. 
+- La rime comme argument est très convaincant. 
+- **La beauté implique un sens dans la phrase**
 
-Allitérations: sons de consonnes 
+##### [[mots_valises]]
 
-Paronomase: mot entier dont la prononciation est proche. 
+- Très puissant, surtout pour discréditer: les médias 
 
-Très convaincant: la rime comme argument 
+- Les 2 mots du mot valise perdent de leur gravité
 
-La beauté implique un sens dans la phrase 
+#### les tropes 
 
-# mots valises 
+- Métaphores, synecdoque et comparaison
 
-Très puissant, surtout pour discréditer: les médias 
+##### construire une métaphore 
 
-Les2 mots du mot valise perdent de leur gravité: feminazi. Nazi est biens moins grave d'un coup 
+- Clarté: les deux images doivent être rapprochées. 
+- Nouveauté: si trop attendu: cliché, inutile. 
+- Puissante: adaptée à notre auditoire
 
-# les tropes 
+#### les effets des métaphores (3)
 
-Métaphores, synecdoque et comparaison
+##### les effets de présence 
 
-# construire une métaphore 
+- Si bonne métaphore, s'impose a la conscience de l'auditeur. 
 
-Clarté: les deux images doivent être rapprochées. 
+##### effets de sens. 
 
-Nouveauté: si trop attendu: cliché, inutile. 
+- Simplifie des idées complexes. 
 
-Puissante: adaptée à notre auditoire déjà 
+##### effet d'absence
 
-## les effets des métaphores (3)
+- Permet de ne pas vraiment dire un argument, de le laisser dans l'implicite, irréfutable. [[comment_le_refuter]]
 
-# les effets de présence 
+##### mobilisée les émotions 
 
-Si bonne méta, s'impose a la conscience de l'auditeur. 
+- Persuader est différent de convaincre dans le sens où l'on utilise les émotions. Plus fallacieux. 
 
-# effets de sens. 
+"Le juge pris par le sentiment, cesse totalement de chercher la vérité"
 
-Simplifie des idées complexes. 
-
-# effet d'absence
-
-Permet de ne pas vraiment dire un argument, de le laisser dans l'implicite, irréfutable. 
-
-2 options possibles pour les réfuter: dévoilement pour ensuite pouvoir réfuter l'argument devenu explicite. 
-
-Le renversement: faire une métaphore en guise de défense. 
-
-### mobilisée les émotions 
-
-Persuader est différent de convaincre dans le sens où l'on utilise les émotions. Plus fallacieux. 
-
-"Le juge pris par le sentiment, cesse totalement de chercher la vérité 
-
-La partie de notre cerveau qui pense très rapidement ( habitudes, jugement) engendre souvent des biais. 
-
-Lorsqu'une situation est trop étrangère, elle devient inconcevable ( enfant échoué sur la plage, guerre en Syrie) 
-
-Émouvoir l'auditoire est nécessaire pour lui faire prendre conscience 
-
+- **La partie de notre cerveau qui pense très rapidement ( habitudes, jugement) engendre souvent des biais.**
+- Lorsqu'une situation est trop étrangère, elle devient inconcevable ( enfant échoué sur la plage, guerre en Syrie) 
+- Émouvoir l'auditoire est nécessaire pour lui faire prendre conscience 
 Ex: l'émotion pour montrer qu'il y a urgence. De simples mots ne suffisent pas 
 
-## un outil de manipulation
+###### un outil de manipulation
 
-Il est prouvé que les émotions font qu'on réfléchit moins bien, qu'on s'appuie plus sur l'instinct qui est souvent erroné.
+- **Il est prouvé que les émotions font qu'on réfléchit moins bien, qu'on s'appuie plus sur l'instinct qui est souvent erroné.**
 
-CCL: deux possibilités pour utiliser les émotions: manipuler ou bien toucher profondément. 
+- CCL: deux possibilités pour utiliser les émotions: manipuler ou bien toucher profondément. 
+- Ce n'est pas parce que nous avons ressenti des émotions que nous devons concéder notre conviction. 
+- Ou se situe la ligne entre les deux ? 
+- Dilemme entre enlever la réflexion en face et convaincre ( pour une bonne cause, la fin justifie les moyens ? ) 
 
-Si on est submergés d'émotion, impossible de réfléchir correctement. 
+##### les effets des affects 
 
-Pour nous, ok c'est important pour se rendre compte d'une situation mais attention, il faut qu'on sache que qd trop d'émotions, plus de réflexion possible: 
+###### les différentes émotions 
 
-Ce n'est pas parce que nous avons ressenti des émotions que nous devons concéder notre conviction. 
+- 4 familles: anxiété, enthousiasme, aversion et compassion, [[exemple_emotions]]
 
-  
 
-Ou se situe la ligne entre les deux ? 
+##### les situations émouvantes
 
-Dilemme entre enlever la réflexion en face et convaincre ( pour une bonne cause, la fin justifie les moyens ? ) 
+- Apprendre à les détecter pr pvr émouvoir l'auditoire en sachant ou appuyer: travailler le cadrage 
 
-## les effets des affects 
+##### la proximité de l'argument
 
-# les différentes émotions 
+- Elle entraine de la compassion: attentat aux Balkans < attentat à Paris 
+- Proximité dans le temps également. 
+- Donner des détails donne plus d'émotions: un homme est mort de faim < un instituteur a la retraite est mort de faim 
 
-4 familles: anxiété, enthousiasme, aversion et compassion. 
+##### l'intensité 
 
-Ex: émeutes a cause d'une arrestation qui tourne en un décès: si du côté de la police: compassion pour les policiers, peur a l'égard des responsables. Si parti progressiste, tristesse pour le jeune homme, etc …
+- Ajouter des chiffres, des détails sur l'intensite: 
+- Un attentat a été commis< un attentat a été commis: 32 morts 
+- Donner de l'intensité aux conséquences. 
 
-On peut défendre n'importe quoi en fonction de ce que tu dis, des arguments. 
+##### la matérialité 
 
-# les situations émouvantes
+- Si un événement est flou, on sera moins ému. 
+- Par ex, SMS: il faut qu'on parle. On est certain que c'est fini mais c pas encore flou. Avec le c'est terminé la on est vrmt effondré. 
 
-Apprendre à les détecter pr pvr émouvoir l'auditoire en sachant ou appuyer: travailler le cadrage 
+##### l'identité 
 
-# la proximité 
+- Plus d'émotions si on partage l'âge, profession, religion, lieu de naissance ou résidence. Ex: mariage de Meghan markle vs mariage d'une connaissance. sorte de proximité
+- Plus touchés si c des personnes vulnérables et fragiles. Mort< mort d'enfants 
 
-Elle entrain de la compassion: attentat aux Balkans < attentat à Paris 
+##### l'agentivité. 
 
-Ou " tu seras au chômage < tu seras au chômage dans 5 jours" 
+- On est plus touché si il y a qlqn à blâmer [[exemple_agentivité]]
 
-Donner des détails donne plus d'émotions: un homme est mort de faim < un instituteur a la retraite est mort de faim 
+##### la similarité
 
-# l'intensité 
+- On est plus touchés par un évènement que l'on a déjà expérimenté. 
 
-Ajouter des chiffres, des détails sur l'intensite: 
+- **CCL: il faut sélectionner les informations pour faire une situation émouvante **
 
-Un attentat a été commis< un attentat a été commis: 32 morts 
+#### montrer assigner  et invoquer des émotions 
 
-Donner de l'intensité aux conséquences. 
+##### la contagion émotionnelle: 
 
-Donner de l'intensité a la gravité symbolique (tombe du soldat inconnu). 
+- Un discours emotionnant donne des émotions. Un discours emotionné: on y perçoit des émotions de la part de l'auditeur.
 
-# la matérialité 
+- Il faut arriver à donner des émotions mais attention à ne pas être ridicule ou la c tout rate 
 
-Si un événement est flou, on sera moins ému. 
+##### la suggestion émotionnelle 
 
-Par ex, SMS: il faut qu'on parle. On est certain que c'est fini mais c pas encore flou. Avec le c'est terminé la on est vrmt effondré. 
+- Suggérer une émotion a qlqn entraîne l'émotion chez ce qlqn
 
-# l'identité 
-
-Plus d'émotions si on partage l'âge, profession, religion, lieu de naissance ou résidence. Ex: mariage de Meghan markle vs mariage d'une connaissance. 
-
-Plus touchés si c des personnes vulnérables et fragiles. Mort< mort d'enfants 
-
-# l'agentivité. 
-
-On est plus touché si il y a qlqn à blâmer: 
-
-Accident de produits chimiques a fait un mort< '', le proprio n'a rien fait malgré la demande des employés. 
-
-# la similarité
-
-On est plus touchés par un évènement que l'on a déjà expérimenté. 
-
-CCL: il faut sélectionner les informations pour faire une situation émouvante 
-
-Cpdt, pas assez, il faut faut choisir les bons mots: 
-
-## montrer et assigner des émotions 
-
-3 vecteurs pour ce faire: les montrer, les assigner, les invoquer. 
-
-# la contagion émotionnelle: 
-
-Un discours emotionnant donne des émotions. Un discours emotionné: on y perçoit des émotions de la part de l'auditeur.
-
-Il faut arriver à donner des émotions mais attention à ne pas être ridicule ou la c tout rate 
-
-# la suggestion émotionnelle 
-
-Suggérer une émotion a qlqn entraîne l'émotion chez ce qlqn
-
-# invoquer les émotions 
-
-6 critères: 
-
-Proximité, intensité, identité, agentivité, similarité, matérialité. 
+##### invoquer les émotions 
+- Proximité, intensité, identité, agentivité, similarité, matérialité. 
 
 Quelques procèdes suffisent: 
 
-Matérialisation, amplification et la metaphorisation.
+- Matérialisation, amplification et la metaphorisation.
 
-## la materialisation 
+###### la materialisation 
 
-Une photo très touchante, un couteau ou une corde pour convaincre lors d'un procès. 
+- Une photo très touchante, un couteau ou une corde pour convaincre lors d'un procès. 
 
-### la description 
+###### la description 
 
 Mettre devant les yeux l'argument 
 
-2 possibilités: l'hypotypose est le fait de décrire minutieusement avec les bons détails. Demande de la maîtrise pour ne pas tomber dans l'ennui. 
+- 2 possibilités: 
+	 - l'[[hypotypose]] est le fait de décrire minutieusement avec les bons détails.
+	 - Diatypose: suscite des visualisations frappantes rapidement, avec des images fortes. ( doudou pr un enfant qui fait la guerre)
 
-Diatypose: suscite des visualisations frappantes rapidement, avec des images fortes ( doudou pr un enfant qui fait la guerre). Cristalliser le réel a tel point qu'il prends vie. 
+- Éthopée: description d'une personne, avec sa biographie, exhibant ses moeurs et ses valeurs, souligner des caractères. [[exemple_ethopee]]
 
-Éthopée: description d'une personne, avec sa biographie, exhibant ses moeurs et ses valeurs, souligner des caractères. 
-
-Ex: parler du passé horrible d'un meurtrier pour faire passer de la pitié. ( Enfance malheureuse, cliché). 
-
-## l'amplification 
+###### l'amplification 
 
 Trois méthodes: 
 
-Exclamation, répétition,hyperbole 
+- Exclamation, répétition,hyperbole 
 
 ### l'exclamation 
 
-Apparaît comme naturelle 
+- Apparaît comme naturelle 
+- Cet homme traverse une période difficile → Ce pauvre homme ! 
+- Cette situation m'attriste -> Quelle misère ! 
+- Jeunesse ! Réveille toi ! Défends tes droits ! 
+- Nécessite une bonne force de conviction sinon silence gêne. 
 
-Cet homme traverse une période difficile → Ce pauvre homme ! 
+######  répétitions 
+- Principal chose: epanalepse: répeter un segment de texte. 
+- Ex: remarque sexiste: plus jamais ce genre de remarques, plus jamais ! Tu m'entends, plus jamais ! 
+- Plus complexe: l'anaphore qui commence une série de phrases par le mm segment de texte. [[exemple_anaphore]]
 
-Cette situation m'attriste -> Quelle misère ! 
+###### hyperbole
+- Figure de l'exagération, accentue l'expression d'une idée pr la mettre en relief. [[exemple_hyperbole]]
+- Pour des excuses: j'ai des remords -> je suis rongé par le remords. 
+- [[Pas_en_abus_hyperbole]], car elles vivent par la saillance de la rareté. 
 
-Jeunesse ! Réveille toi ! Défends tes droits ! 
+##### la metaphorisation 
+- Nouer des connexions avec des situations sans lien. 
+- Comparer l'IVG à Hiroshima 
+- Comparer l'IVG à des bb a la poubelle. 
+- Si les métaphores sont trop horribles, elles seront sûrement rejetées par les auditeurs. Mais elles susciteront quand mm des émotions. 
 
-  
+##### [[personnification]]
 
-Nécessite une bonne force de conviction sinon silence gêne. 
+- réintroduire un responsable quand un événement est du au hasard, ca le rend plus grave, cf agentivité 
 
-### répétitions 
+##### chercher la justesse 
 
-Déjà traité. 
+- Il faut faire attention à ne pas trop user des ces outils. Sinon ennuyant ou demasqué ! Le juste milieu, la justesse 
 
-Principal chose: epanalepse: répeter un segment de texte. 
+### exacerber les affects: le rôle de la surprise 
 
-Ex: remarque sexiste: plus jamais ce genre de remarques, plus jamais ! Tu m'entends, plus jamais ! 
+##### [[technique du coq à l'âne]]
 
-Accentue la portée. 
+- Éviter un cheminement logique tout vu. 
+- **Truc triste … C RAMENER LA COUPE A LA MAISON (équipe de foot)**
+- introduire un truc très heureux avec un truc triste puis surprise.  
+##### l'attente
 
-Plus complexe: l'anaphore qui commence une série de phrases par le mm segment de texte. 
+- Faire monter la pression en etant un peu flou et en créeant des attentes … des silences … puis envoyer d'un coup. Les gens se préparent à être surpris. 
 
-Ces remarques me pèsent, je les subis dans la rue, dans les bars, sur les réseaux. -> Ces remarques me pèsent, je les subis dans la rue. Je les subis dans les bars. Je les subis sur les réseaux. 
+##### appeler a l'action 
 
-### hyperbole
+- Une émotion seule suffit mais pas tt le temps, il faut pousser à l'action. 
+- Pivot émotionnel: susciter une tension qu'on laisse en suspens. Puis amorcer la transition avec un appel à l'action. 
+3 grands types: 
+1. [[Peur_solution]]
+2. [[espoir_réalisation]]
+3. [[indignation-mobilisation]]
+autour de 4 familles d'affects: anxiété, enthousiasme, aversion et compassion. 
 
-Figure de l'exagération, accentue l'expression d'une idée pr la mettre en relief. 
-
-Ex: gosse qui vient de piquer un bonbon : c'est une bêtise ! ( Pas assez grave) : c'est très grave ce que tu viens de faire, c'est du vol. Tu ne dois plus jamais recommencer. 
-
-Pour des excuses: j'ai des remords -> je suis rongé par le remords. 
-
-Pas en abuse, car elles vivent par la saillance de la rareté. 
-
-1 ou 2 hyperboles est ok, pas plus. 
-
- ## la metaphorisation 
-
-Nouer des connexions avec des situations sans lien. 
-
-Comparer l'IVG à Hiroshima 
-
-Comparer l'IVG à des bb a la poubelle. 
-
-Métaphore dangereuse …
-
-Si les métaphores sont trop horribles, elles seront sûrement rejetées par les auditeurs. Mais elles susciteront quand mm des émotions. 
-
-## personnification 
-
-Faire parler qqch qui ne parle pas: objet, animal, bb …: réintroduire un responsable quand un événement est du au hasard. 
-
-Ex: le capitalisme est mauvais dans son principe de croissance illimitée -> la finance est un monstre. Tjrs faim
-
- Si nous la laissons faire, elle engloutira tout, même la planète. 
-
-# chercher la justesse 
-
-Il faut faire attention à ne pas trop user des ces outils. Sinon ennuyant ou demasqué ! Le juste milieu, la justesse 
-
-# exacerber les affects: le rôle de la surprise 
-
-## technique du coq à l'âne 
-
-Passer d'un sujet a un autre ultra rapidement. 
-
-Éviter un cheminement logique tout vu. 
-
-Truc triste … C RAMENER LA COUPE A LA MAISON (équipe de foot) 
-
-## l'attente
-
-Faire monter la pression en etant un peu flou et en créeant des attentes … des silences … puis envoyer d'un coup. Les gens se préparent à être surpris. 
-
-# appeler a l'action 
-
-Une émotion seule suffit mais pas tt le temps, il faut pousser à l'action. 
-
-Pivot émotionnel: susciter une tension qu'on laisse en suspens. Puis amorcer la transition avec un appel à l'action. 
-
-3 grands types: peur-solution, espoir réalisation, indignation-mobilisation, autour de 4 familles d'affects: anxiété, enthousiasme, aversion et compassion. 
-
-## Peur solution 
-
-Présence d'une menace, réelle ou imaginaire. Installer sentiment de peur (tension), Leur donner une porte de sortie ( la seule possible). 
-
-Prq ça marche ? Si anxiété, on va chercher une solution et on est plus enclin à changer d'idées etc. 
-
-Si on a bcp trop peur, déni ou abandon si la solution n'est pas assez efficace. (Réchauffement) 
-
-## espoir réalisation. 
-
-Susciter l'espoir du bonheur. Va susciter aussi de la frustration car on ne sait pas comment arriver au bonheur. Permet de ne pas terroriser en disant ce qui est horrible mais plutôt ce qui est beau. 
-
-En général le gouvernement qui l'utilise. Ou les publicités ! 
-
-Méfions nous de notre propre exaltation pour ne pas se faire avoir. 
-
-En tant qu'oratrice: il faut mobiliser l'enthousiasme. Connaître ce qu'aiment les gens pr s'en servir. 
-
-## indignation-mobilisation
-
-Décrire une situation injuste : colère et honte  -> indignation
-
-Indignation écrasé la complexité. Si un pdv un peu plus nuancé, on voit plus de la même manière. 
-
-#CCL
-
+#### CCL
 3 moyens: nos propres émotions, assigner des émotions a l'auditoire avec la suggestion, puis façonner les émotions par nos paroles 
 
-# Travailler son image 
+#### [[Travailler son image]]
+- L'effet de halo: établir notre jugement sur des faits marquants.(=~ stéréotype). 2 dimensions: caractères physiques et vestimentaires: 
 
-L'apparence est importante pour convaincre. On fonde nos jugements sur la personne qui argumenté, pas les arguments.
+###### physique 
+- Le vote a une élection est determinée en partie par l'apparence physique, sans qu'on s'en rende compte.
+- Pareil pr les gens beaux: plus social etc… "ce qui est beau nous paraît bon". 
+###### vestimentaire 
+- L'uniforme permet de convaincre. Le costume également. On aime aussi ce qui nous ressemble.
+##### de l'apparence a l'ethos ( notre image) 
+- 3 qualités a avoir: Paraître vertueux, prudent et bienveillant selon Aristote. Maintenant: **sincères, compétents et séduisants.**
 
-L'effet de halo: établir notre jugement sur des faits marquants.(=~ stéréotype). 2 dimensions: caractères physiques et vestimentaires: 
-
-## physique 
-
-Le vote a une élection est determinée en partie par l'apparence physique, sans qu'on s'en rende compte.
-
-Pareil pr les gens beaux: plus social etc… "ce qui est beau nous paraît bon". 
-
-## vestimentaire 
-
-L'uniforme permet de convaincre. Le costume également. On aime aussi ce qui nous ressemble.
-
-# de l'apparence a l'ethos ( notre image) 
-
-3 qualités a avoir: Paraître vertueux, prudent et bienveillant selon Aristote. Maintenant: sincères, compétents et séduisants. 
-
-## ethos préalable et discursif 
-
-Ethos: l'image que nous renvoyons de ns mm. 
-
-Préalable: ce que les auditeurs pensaient de nous avant qu'on parle. Discursif:  pdt qu'on parle. 
-
-Le Discursif s'exprime quand on parle, la manière dont on le dit et ce que le corps dit. 
-
-But: cultiver notre ethos préalable à l'aide de notre ethos discursif.
-
+###### [[ethos]] [[préalable]] et [[discursif]]
+- But: cultiver notre ethos préalable à l'aide de notre ethos discursif.
 Il faut paraître les 3 qualités. 
 
-## la sincerité
+###### la sincerité
 
-Sans ça, tout l'édifice s'écroule. Être convaincu de ce qu'on affirmé. 
+- Sans ça, tout l'édifice s'écroule. Être convaincu de ce qu'on affirmé. 
+- Pour cela, 3 directions: 
+	- [[cohérence]],Ce que l'on reproche a une girouette, c'est d'être guidée par le vent, pas de bouger tout le temps.
+	- [[congruence]]
+	- constance. 
 
-Pour cela, 3 directions: cohérence, congruence et constance. 
+###### la construction rhétorique de la sincérité. 
 
-### l'exigence de cohérence
+- Si on parle comme d'hab sans que ce soit calculé, on paraît plus sincère! Où on oublie des choses, hésites  …  Spontanéité. 
+- Prétendre qu'on dit un truc mal pr dire un truc bien après. 
+- La perfection vaut l'admiration et les imperfections la conviction. 
+###### la discrétion. 
+- Plus la rhétorique est visible, moins elle est efficace. Les termes arguments, position … sont mal vus, trop peu discret. 
+- On doit montrer qu'on cherche a convaincre, pas qu'on veut faire de la rhétorique. 
 
-Argumentation rigoureusement articulée ou tous les éléments se soutiennent. Également nos positions au cours du temps. Mais c normal d'évoluer, mais avec justification. Ce que l'on reproche a une girouette, c'est d'être guidée par le vent, pas de bouger tout le temps. 
+###### la compétence 
+- Mq on sait de quoi on parle, compétents. Permet de gagner mm sans argument. 
+- On peut paraître crédible sans l'être pr autant: 
 
-### l'impératif de congruence 
+###### les preuves explicites de compétence 
 
-Congruence = toutes les dimensions du discours sont alignées.( Dimensions = verbale, paraverbale et non verbales) 
+- Titres statuts, diplôme
+- Attention à ne pas utiliser le "protocole de dissuasion": étaler toutes les preuves de notre compétence avant mm les arguments: suscite de l'irritation et de la suspicion. 
+- " Ce qu'on a besoin de préciser, c'est ce qui ne va pas de soi". 
+- 2 ème problème: nous allons paraître arrogant. Frontiere fine entre arrogance et compétence. 
+- On peut aligner notre CV petit a petit le long du discours. 
 
-Tt est fluide, naturel. A l'inverse, tensions, discordance, délicat a spotter consciemment mais très accablant inconsciemment. 
+###### marqueurs implicites de compétence: public, données précises, normes juridiques, termes techniques. 
 
-Quand on est mi sérieux mais en rigolant, pas ouf: incongruent, pas fluide, qqch qui cloche. 
+- 2 problème: ne doit pas nier a la compréhension du discours. Ils doivent pvr être enlève du discours sans pb. 
+- 2 ème: si trop, perd complètement en efficacité 
+- CCL: parsemer les marqueurs explicites, saupoudrer les implicites. 
 
-Comment faire ? Ne prendre la parole que qd on est sincères → éloquence. 
-
-### la construction rhétorique de la sincérité. 
-
-Si on parle comme d'hab sans que ce soit calculé, on paraît plus sincère! Où on oublie des choses, hésites 
-
-…  Spontanéité. 
-
-Prétendre qu'on dit un truc mal pr dire un truc bien après. 
-
-La perfection vaut l'admiration et les imperfections la conviction. 
-
-### la discrétion. 
-
-Plus la rhétorique est visible, moins elle est efficace. Les termes arguments, position … sont mal vus, trop peu discret. 
-
-On doit montrer qu'on cherche a convaincre, pas qu'on veut faire de la rhétorique. 
-
-## la compétence 
-
-Mq on sait de quoi on parle, compétents. Permet de gagner mm sans argument. 
-
-On peut paraître crédible sans l'être pr autant: 
-
-### les preuves explicites de compétence 
-
-Titres statuts, diplôme
-
-Attention à ne pas utiliser le "protocole de dissuasion": étaler toutes les preuves de notre compétence avant mm les arguments: suscite de l'irritation et de la suspicion. 
-
-" Ce qu'on a besoin de préciser, c'est ce qui ne va pas de soi". 
-
-2 ème problème: nous allons paraître arrogant. Frontiere fine entre arrogance et compétence. 
-
-On peut aligner notre CV petit a petit le long du discours. 
-
-### marqueurs implicites de compétence: public, données précises, normes juridiques, termes techniques. 
-
-2 problème: ne doit pas nier a la compréhension du discours. Ils doivent pvr être enlève du discours sans pb. 
-
-2 ème: si trop, perd complètement en efficacité 
-
-CCL: parsemer les marqueurs explicites, saupoudrer les implicites. 
-
-## la séduction
-
-On croit plus ceux que l'on aime bien. 
-
-Différentes manières de séduire. Gentillesse, autorité … un truc en commun, l'impression que l'on vous veut du bien. Adapter notre manière de séduire a l'auditoire. Être 4 personne en mm temps: 
-
--   Nous 
-    
--   La personne qu'on veut être 
-    
--   L'ethos préalable
-    
--   La personne qu'on a abesoin d'être 
-    
-
+###### la séduction
+- On croit plus ceux que l'on aime bien. 
+- Différentes manières de séduire. Gentillesse, autorité … un truc en commun, l'impression que l'on vous veut du bien. Adapter notre manière de séduire a l'auditoire. Être 4 personne en mm temps: 
+	-   Nous 
+	-   La personne qu'on veut être 
+	-   L'ethos préalable
+	-   La personne qu'on a abesoin d'être 
 Compromis entre ces 4 personnes. 
 
-### désaccord 
+## désaccord 
 
-3 possibilités: ne rien dire, clamer haut et fort son pdv et fermer sa gueule 
-
+- 3 possibilités: ne rien dire, clamer haut et fort son pdv et fermer sa gueule 
 Il se peut que ce soit nous. Pour éviter ceci, on peut ne pas dire le verbe être: je suis végétarien → je ne mange ni viande ni poisson. Je suis geek → je joue à l'ordi 
 
 CCL: paraître sincère, compétent et séduisant
 
-# reconnaître la tromperie 
+## reconnaître la tromperie 
 
-## l'art de malmener la logique 
+### l'art de malmener la logique 
 
-### sophismes et paralogismes 
+##### sophismes et paralogismes 
 
-Arguments fallacieux= sophisme = violé une règle de la logique 
+- Arguments fallacieux= sophisme = violé une règle de la logique 
+- Comment construit on la logique ? 
+- Avec induction et déduction 
 
-Comment construit on la logique ? 
+###### les raisonnements inductifs: exemple et montée en généralité 
 
-Avec induction et déduction 
+###### Inductifs: général a partir de particulier. 
 
-### les raisonnements inductifs: exemple et montée en généralité 
-
-Inductifs: général a partir de particulier. 
-
-Plus le particulier est implacable et grand, plus ce sera compliqué de refuter
+- Plus le particulier est implacable et grand, plus ce sera compliqué de refuter
 
 ### les raisonnements deductifs: syllogismes
 
-Partir de prémisses pour aboutir à une conclusion 
+- Partir de prémisses pour aboutir à une conclusion 
+- Si les  prémisses ne sont pas vraiment exprimées: enthymèmes: 
+[[exemple_premisse_non_devoile]]
 
-Des prémisses ne sont pas vraiment exprimées: enthymèmes: 
 
-Tu ne viens plus aux soirées ? J'ai du travail: prémisse: les soirées finissent tard, quand je je me couche tard je travaille mal. 
+- Utile de ne pas dire toute la déduction: 
 
-D'autres cachées sont bien mieux comme ça: éclairer les et ce sera un carnage: en vingt ans il n'a pas fait un seul titre: prémisse: un chanteur se valorise par ses ventes. Si on est mis en lumière, aïe. Quand on veut on peut: tout ce qui arrive depend de nous. Très faux. 
+- Mon profil est très recherché en ce moment … ( si vs faites pas ce que je dis, je me casse). Différence entre planer une menace et menacer. Faire passer un message sans envenimer la situation. 
 
-Utile de ne pas dire toute la déduction: 
+##### les infractions a la logique informelle 
 
-Mon profil est très recherché en ce moment … ( si vs faites pas ce que je dis, je me casse). Différence entre planer une menace et menacer. Faire passer un message sans envenimer la situation. 
-
-  
-
-## les infractions a la logique informelle 
-
-Sophisme: raisonnement qui enfreint habilement les logiques de l'induction et déduction: CCL trompeuse. 
+- **Sophisme: raisonnement qui enfreint habilement les logiques de l'induction et déduction: CCL trompeuse.**
 
 ### les raisonnements frauduleux
 
-3 : constructions fautives, options lacunaires, prémisses contestables. 
+1. constructions fautives, 
+2. options lacunaires,
+3. prémisses contestables. 
 
-Pétition de principe= tautologie. 
-
-Justifier une chose en partant de sa conclusion. Ne prouve rien.
-
-Aussi (sorte d'ex) si un événement se passe après un autre, c'est que c'est la conséquence. Fausse cause. 
-
-Honneur et déshonneur par association. Deux individus qui ont un point commun partagent tous, mm les des honneurs 
-
-La division abusive: 
-
-Ce qui est vrai pour un tout est vrai pour chaque pièce. Faux pr un bateau qui flotte 
-
-Confondre l'absence de preuve et la preuve de l'absence et en tirer une conclusion
+- Justifier une chose en partant de sa conclusion. Ne prouve rien.
+- Aussi (sorte d'ex) si un événement se passe après un autre, c'est que c'est la conséquence. Fausse cause. 
+- Honneur et déshonneur par association. Deux individus qui ont un point commun partagent tous, mm les deshonneurs 
+##### La division abusive: 
+- Ce qui est vrai pour un tout est vrai pour chaque pièce. Faux pr un bateau qui flotte 
+- Confondre l'absence de preuve et la preuve de l'absence et en tirer une conclusion

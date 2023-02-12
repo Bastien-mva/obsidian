@@ -1,0 +1,1 @@
+ce que les auditeurs pensaient de nous avant qu'on parle. Discursif:  pdt qu'on parle. 

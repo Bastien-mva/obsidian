@@ -1,1 +1,1 @@
-[[bonnes_idees_cuisine]]
+[[bonnes_idees_cuisine_course]]

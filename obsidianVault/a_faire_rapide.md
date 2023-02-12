@@ -27,7 +27,6 @@ Shift your job pr un taff responsable 
 Earthy.fr
 BigBag ? 
 Checker séminaire avant 
-Organiser Chandeleur
 Cife
 SEME 
 Pas compétent 
@@ -54,3 +53,8 @@ Respire nouch
 mettre le data_to_image dans un package. 
 github CI
 Gratitude 
+lire papiers de deep pour modeles génératifs. 
+Tt savoir sur le git rebase 
+Acheter des chaussettes hautes
+Inscrire JDS  
+Présentation derivative ou gaussian latent layer recyclage. 

@@ -1,0 +1,1 @@
+Ex: il faut lutter contre les ineg. Il n'engage personne. 

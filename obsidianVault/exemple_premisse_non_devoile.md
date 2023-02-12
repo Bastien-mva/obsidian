@@ -1,0 +1,2 @@
+Tu ne viens plus aux soirées ? J'ai du travail: prémisse: les soirées finissent tard, quand je je me couche tard je travaille mal. 
+D'autres cachées sont bien mieux comme ça: éclairer les et ce sera un carnage: en vingt ans il n'a pas fait un seul titre: prémisse: un chanteur se valorise par ses ventes. Si on est mis en lumière, aïe. Quand on veut on peut: tout ce qui arrive depend de nous. Très faux. 
