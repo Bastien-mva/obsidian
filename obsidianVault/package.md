@@ -11,6 +11,8 @@
 	- check-manifest --create
 	- ensuite: 
 	-  twine upload --skip-existing dist/* (juste twine upload dist/* si il n’a pas été crée jse crois)
+ - checker si on peut casser l'API en modifiant des trucs qu'on a moralement le droit de modifier. En gros mettre des  blanc beta et blanc C devant tout.  
+ - definir des setters pour Y O et covariates
 ## Conseil de JB 
 - apprendre comment faire un peu mieux le .yml de gitlab-ci 
 - checker le license de parametrization cookbook, ainsi que le setup
@@ -20,6 +22,7 @@
 - la doc de matplotlib est top 
 - mettre en kwargs les parametres non importants 
 - print (aka __repr__) devrait return un string !
+
 
 [[question_package_JB]]
 
