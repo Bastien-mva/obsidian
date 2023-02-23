@@ -5,7 +5,7 @@
 
 faire une fonction utils.py ou utils.r qui permet de faire tout ce qu’on fait souvent dans un repo github ! 
 
-  
+un truc sur du W sachant Y avec Y une fonction aléatoire de W. Avoir des garanties en fonction de la fonction aléatoire.  
 cleaner les codes, surtout imps et VEM 
 
 Rajouter les covariates a la fin pour le VAE 

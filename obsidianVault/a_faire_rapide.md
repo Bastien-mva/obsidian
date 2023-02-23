@@ -39,22 +39,21 @@ Investir 
 Formation gît diff etc 
 5 balles Emré 
 implémenter PARIS algorithm en c++ ou mm java. 
-checker pile de la lampre frontale 
 lire papier de dirichlet allocation pour MontePlateau 
 Organiser week end soeurs 
-Demander à Julien Lang des ref pr biologie 
 créer un interchiennes important 
 bouger les notes google docs sur obsidian
+indemnité carburant 
 kdo pierro 
 lola
 kdo Marie Gohon 
 Rembourser Armand 10
 Respire nouch
-mettre le data_to_image dans un package. 
+mettre le data_to_image doc
 github CI
 Gratitude 
-lire papiers de deep pour modeles génératifs. 
 Tt savoir sur le git rebase 
 Acheter des chaussettes hautes
 Inscrire JDS  
 Présentation derivative ou gaussian latent layer recyclage. 
+mettre les rdv sur mia-ps inrae.fr pour le séminaire doctorants. 

@@ -22,7 +22,22 @@
 - la doc de matplotlib est top 
 - mettre en kwargs les parametres non importants 
 - print (aka __repr__) devrait return un string !
-
+- Token rattaché au projet 
+- Ne pas mettre le mot de passe 
+- MDP pr générer le token sur pypi et après stop 
+- Test coverage pour savoir quelles lignes sont pas testés 
+- Checker la CI de JB pr les tests 
+- Un bug-> un test 
+- Moi qui raise l'error quand n différent de n tilde 
+- Type error 
+- Ne jamais lever Exception tout court 
+- Google python style guide 
+- Pylint Avec pylintrc 
+- Fstring au lieu de format 
+- Formater avec f'{b:18s
+- Formatage pr value error : !r
+- Si un blanc l'utilisateur ne peut pas l'utiliser
+- Si il doit pvr le modifier mettre un setter avec des setter
 
 [[question_package_JB]]
 

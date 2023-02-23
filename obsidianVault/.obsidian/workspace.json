@@ -6,6 +6,7 @@
       {
         "id": "8043a141b733cc1f",
         "type": "tabs",
+        "dimension": 62.6865671641791,
         "children": [
           {
             "id": "32f8d930ccb5ab0b",
@@ -37,7 +38,53 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bonnes_idees_cuisine_course.md",
+                "file": "a_faire_these.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89b07f15ad654970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_lire_these.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6d4800cd9ea230e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
+            "id": "cb9ceac4f1a2dcf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_lire_these.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aafc8604046ec18a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gtap.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,13 +101,110 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0297b373f3f89e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gtap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e453c5223f09436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entrypoint__perso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87ec0ce0dc25155e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_faire_these.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4daeccd785fce78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_faire_these.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c87a482c3ab7d58b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_faire_imps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ee87eb82514809f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_faire_these.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edcd3ecbb7d5c214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_lire_these.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6780e8a05751b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_faire_imps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "6cb1f936397a4b4c",
         "type": "tabs",
+        "dimension": 37.3134328358209,
         "children": [
           {
             "id": "29a30986902a96cc",
@@ -68,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bonnes_idees_cuisine_course.md",
+                "file": "a_lire_these.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,10 +270,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "idees",
+                "query": "a_lire_these",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -164,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bonnes_idees_cuisine_course.md",
+                "file": "a_lire_these.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bonnes_idees_cuisine_course.md",
+                "file": "a_lire_these.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bonnes_idees_cuisine_course.md"
+                "file": "a_lire_these.md"
               }
             }
           },
@@ -234,17 +378,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c357ac469c70fdf",
+  "active": "d6d4800cd9ea230e",
   "lastOpenFiles": [
+    "a_faire_these.md",
+    "a_faire_abra.md",
+    "gtap.md",
+    "entrypoint__perso.md",
+    "a_lire_these.md",
+    "reu_21_fev_Julien_Julien_IHP.md",
+    "a_faire_imps.md",
     "a_faire_rapide.md",
-    "le_pouvoir_rhetorique.md",
-    "exemple_premisse_non_devoile.md",
-    "congruence.md",
-    "cohérence.md",
-    "ethos.md",
-    "discursif.md",
-    "préalable.md",
-    "Travailler son image.md",
-    "indignation-mobilisation.md"
+    "compte_rendu_imps_2fev2023.md",
+    "after.md"
   ]
 }

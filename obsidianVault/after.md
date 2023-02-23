@@ -1,3 +1,5 @@
 - Owkin (demander a JP Vert ?)
 - Think Tank 
 - Post doc en math un peu plus théorique
+- checker un taff sur 80 000 hours. 
+- checker un taff sur earthy.fr ou shiftmyjob 

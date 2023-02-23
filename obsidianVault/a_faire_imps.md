@@ -16,3 +16,4 @@
 - Checker Andrieu et Dousset en 2010. 
 -   A dire: le bais est en $o(\frac 1 {n})$ alors que la précision est en $o (\frac 1 {\sqrt n })$ donc le biais est négligeable.  
 - faire des simu pour l'ESS et la variance des poids vec 150 trials
+[[reu_21_fev_Julien_Julien_IHP]]
