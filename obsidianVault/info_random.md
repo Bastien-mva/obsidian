@@ -104,41 +104,7 @@ deb http://security.ubuntu.com/ubuntu jammy-security multiverse
 
 ## connection to ssh 
 
-dans un premier terminal : 
-
-  
-
-ssh -L 2222:ws_chiquet:22 -L 8892:ws_chiquet:8892 [batardiere@bianca2.agroparistech.fr](mailto:batardiere@bianca2.agroparistech.fr)
-
-  
-
-mettre le mdp, et c’est bon normalement, on doit etre connecté sur batardiere@bianca2:/$
-
-  
-
-Dans un deuxième terminal : 
-
-  
-
-ssh -p 2222 bastien@localhost
-
-  
-
-puis 
-
-  
-
-nohup jupyter notebook --no-browser --port=8892 --ip=0.0.0.0 &
-
-  
-
-puis regarder la liste des jupyter notebook : 
-
-  
-
-jupyter notebook list
-prendre celle avec 8892 et la copier dans un lien firefox. 
-pour stoper: 
-
-jupyter notebook stop
-adresse IP: 129.175.127.36
+- ```sudo openconnect --protocol=gp -u  batardiere vpn.agroparistech.fr
+- mettre le mdp agro 
+- ``` ssh bastien@10.50.20.2
+```
