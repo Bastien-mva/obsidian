@@ -54,6 +54,6 @@ github CI
 Gratitude 
 Tt savoir sur le git rebase 
 Acheter des chaussettes hautes
-Inscrire JDS  
-Présentation derivative ou gaussian latent layer recyclage. 
+Inscrire JDS 
+présentation PLN-PCA
 mettre les rdv sur mia-ps inrae.fr pour le séminaire doctorants. 
