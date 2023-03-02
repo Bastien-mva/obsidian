@@ -57,3 +57,4 @@ Acheter des chaussettes hautes
 Inscrire JDS  
 Présentation derivative ou gaussian latent layer recyclage. 
 mettre les rdv sur mia-ps inrae.fr pour le séminaire doctorants. 
+carte pour Pierro 
