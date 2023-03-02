@@ -43,10 +43,10 @@ lire papier de dirichlet allocation pour MontePlateau 
 Organiser week end soeurs 
 créer un interchiennes important 
 bouger les notes google docs sur obsidian
-indemnité carburant 
+indemnité carburant
 kdo pierro 
 lola
-kdo Marie Gohon 
+kdo Marie Gohon
 Rembourser Armand 10
 Respire nouch
 mettre le data_to_image doc
@@ -56,4 +56,8 @@ Tt savoir sur le git rebase 
 Acheter des chaussettes hautes
 Inscrire JDS 
 présentation PLN-PCA
-mettre les rdv sur mia-ps inrae.fr pour le séminaire doctorants. 
+mettre les rdv sur mia-ps inrae.fr pour le séminaire doctorants.
+Inscrire JDS  
+Présentation derivative ou gaussian latent layer recyclage. 
+mettre les rdv sur mia-ps inrae.fr pour le séminaire doctorants.
+carte pour Pierro
