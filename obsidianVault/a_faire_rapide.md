@@ -22,7 +22,6 @@ Sirop de sapin en mai/juin
 classeur avec plastifiche pour mes bulletins etc 
 Faire du bubble tea sans tapioca 
 Prendre une carte Vélib' gratos
-Faire son site internet 
 Shift your job pr un taff responsable 
 Earthy.fr
 BigBag ? 
@@ -36,17 +35,12 @@ Davidejonatown TF1 Replay
 Bâche a vélo
 Lire prix Goncourt 
 Investir 
-Formation gît diff etc 
 5 balles Emré 
 implémenter PARIS algorithm en c++ ou mm java. 
 lire papier de dirichlet allocation pour MontePlateau 
 Organiser week end soeurs 
-créer un interchiennes important 
-bouger les notes google docs sur obsidian
-indemnité carburant
-kdo pierro 
+mail site internet
 lola
-kdo Marie Gohon
 Rembourser Armand 10
 Respire nouch
 mettre le data_to_image doc
@@ -57,7 +51,8 @@ Acheter des chaussettes hautes
 Inscrire JDS 
 présentation PLN-PCA
 mettre les rdv sur mia-ps inrae.fr pour le séminaire doctorants.
-Inscrire JDS  
-Présentation derivative ou gaussian latent layer recyclage. 
-mettre les rdv sur mia-ps inrae.fr pour le séminaire doctorants.
 carte pour Pierro
+Contravention 
+Imprimer papier pour lire de temps en temps. 
+Un papier pr la maison, un pour Saclay, un pour l'appart 
+Edouard investir
